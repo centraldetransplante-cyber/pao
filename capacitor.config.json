@@ -1,0 +1,15 @@
+{
+  "appId": "com.rafael.devocional",
+  "appName": "Devocional",
+  "webDir": "www",
+  "backgroundColor": "#12121a",
+  "android": {
+    "backgroundColor": "#12121a"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_devocional",
+      "iconColor": "#c9a24b"
+    }
+  }
+}

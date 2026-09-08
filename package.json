@@ -1,0 +1,21 @@
+{
+  "name": "devocional-rafael",
+  "version": "1.0.0",
+  "description": "Devocional diario personalizado - tudo para honra e gloria de Deus Pai, por Jesus Cristo, pelo Espirito Santo",
+  "private": true,
+  "scripts": {
+    "sync": "npx cap sync android",
+    "build:plan": "node build-plan.js",
+    "build:merge": "node merge-reflexoes.js",
+    "open:android": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.0",
+    "@capacitor/core": "^7.4.0",
+    "@capacitor/local-notifications": "^7.0.1",
+    "@capacitor/preferences": "^7.0.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.0"
+  }
+}

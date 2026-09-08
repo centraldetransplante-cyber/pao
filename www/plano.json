@@ -1,0 +1,3652 @@
+[
+  {
+    "day": 1,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 1,
+    "reference": "Mateus 1",
+    "highlightVerse": 1,
+    "highlightText": "Livro da geração de Jesus Cristo, filho de Davi, filho de Abraão.",
+    "verseCount": 25
+  },
+  {
+    "day": 2,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 2,
+    "reference": "Mateus 2",
+    "highlightVerse": 1,
+    "highlightText": "E, tendo nascido Jesus em Belém de Judéia, no tempo do rei Herodes, eis que uns magos vieram do oriente a Jerusalém,",
+    "verseCount": 23
+  },
+  {
+    "day": 3,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 1,
+    "reference": "Salmos 1",
+    "highlightVerse": 1,
+    "highlightText": "Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores.",
+    "verseCount": 6
+  },
+  {
+    "day": 4,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 3,
+    "reference": "Mateus 3",
+    "highlightVerse": 1,
+    "highlightText": "E, naqueles dias, apareceu João o Batista pregando no deserto da Judéia,",
+    "verseCount": 17
+  },
+  {
+    "day": 5,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 2,
+    "reference": "Salmos 2",
+    "highlightVerse": 1,
+    "highlightText": "Por que se amotinam os gentios, e os povos imaginam coisas vàs?",
+    "verseCount": 12
+  },
+  {
+    "day": 6,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 4,
+    "reference": "Mateus 4",
+    "highlightVerse": 1,
+    "highlightText": "Então foi conduzido Jesus pelo Espírito ao deserto, para ser tentado pelo diabo.",
+    "verseCount": 25
+  },
+  {
+    "day": 7,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 5,
+    "reference": "Mateus 5",
+    "highlightVerse": 1,
+    "highlightText": "E Jesus, vendo a multidão, subiu a um monte, e, assentando-se, aproximaram-se dele os seus discípulos;",
+    "verseCount": 48
+  },
+  {
+    "day": 8,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 3,
+    "reference": "Salmos 3",
+    "highlightVerse": 1,
+    "highlightText": "Senhor, como se têm multiplicado os meus adversários! São muitos os que se levantam contra mim.",
+    "verseCount": 8
+  },
+  {
+    "day": 9,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 6,
+    "reference": "Mateus 6",
+    "highlightVerse": 1,
+    "highlightText": "Guardai-vos de fazer a vossa esmola diante dos homens, para serdes vistos por eles; aliás, não tereis galardão junto de vosso Pai, que está nos céus.",
+    "verseCount": 34
+  },
+  {
+    "day": 10,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 4,
+    "reference": "Salmos 4",
+    "highlightVerse": 1,
+    "highlightText": "Ouve-me quando eu clamo, ó Deus da minha justiça, na angústia me deste largueza; tem misericórdia de mim e ouve a minha oração.",
+    "verseCount": 8
+  },
+  {
+    "day": 11,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 7,
+    "reference": "Mateus 7",
+    "highlightVerse": 1,
+    "highlightText": "Não julgueis, para que não sejais julgados.",
+    "verseCount": 29
+  },
+  {
+    "day": 12,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 8,
+    "reference": "Mateus 8",
+    "highlightVerse": 1,
+    "highlightText": "E, descendo ele do monte, seguiu-o uma grande multidão.",
+    "verseCount": 34
+  },
+  {
+    "day": 13,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 5,
+    "reference": "Salmos 5",
+    "highlightVerse": 1,
+    "highlightText": "DÁ ouvidos às minhas palavras, ó Senhor, atende à minha meditação.",
+    "verseCount": 12
+  },
+  {
+    "day": 14,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 9,
+    "reference": "Mateus 9",
+    "highlightVerse": 1,
+    "highlightText": "E, entrando no barco, passou para o outro lado, e chegou à sua cidade. E eis que lhe trouxeram um paralítico, deitado numa cama.",
+    "verseCount": 38
+  },
+  {
+    "day": 15,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 6,
+    "reference": "Salmos 6",
+    "highlightVerse": 1,
+    "highlightText": "Senhor, não me repreendas na tua ira, nem me castigues no teu furor.",
+    "verseCount": 10
+  },
+  {
+    "day": 16,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 10,
+    "reference": "Mateus 10",
+    "highlightVerse": 1,
+    "highlightText": "E, chamando os seus doze discípulos, deu-lhes poder sobre os espíritos imundos, para os expulsarem, e para curarem toda a enfermidade e todo o mal.",
+    "verseCount": 42
+  },
+  {
+    "day": 17,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 11,
+    "reference": "Mateus 11",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, acabando Jesus de dar instruções aos seus doze discípulos, partiu dali a ensinar e a pregar nas cidades deles.",
+    "verseCount": 30
+  },
+  {
+    "day": 18,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 7,
+    "reference": "Salmos 7",
+    "highlightVerse": 1,
+    "highlightText": "Senhor meu Deus, em ti confio; salva-me de todos os que me perseguem, e livra-me;",
+    "verseCount": 17
+  },
+  {
+    "day": 19,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 12,
+    "reference": "Mateus 12",
+    "highlightVerse": 1,
+    "highlightText": "Naquele tempo passou Jesus pelas searas, em um sábado; e os seus discípulos, tendo fome, começaram a colher espigas, e a comer.",
+    "verseCount": 50
+  },
+  {
+    "day": 20,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 8,
+    "reference": "Salmos 8",
+    "highlightVerse": 1,
+    "highlightText": "Ó Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra, pois puseste a tua glória sobre os céus!",
+    "verseCount": 9
+  },
+  {
+    "day": 21,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 13,
+    "reference": "Mateus 13",
+    "highlightVerse": 1,
+    "highlightText": "Tendo Jesus saído de casa, naquele dia, estava assentado junto ao mar;",
+    "verseCount": 58
+  },
+  {
+    "day": 22,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 14,
+    "reference": "Mateus 14",
+    "highlightVerse": 1,
+    "highlightText": "Naquele tempo ouviu Herodes, o tetrarca, a fama de Jesus,",
+    "verseCount": 36
+  },
+  {
+    "day": 23,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 9,
+    "reference": "Salmos 9",
+    "highlightVerse": 1,
+    "highlightText": "Eu te louvarei, Senhor, com todo o meu coração; contarei todas as tuas maravilhas.",
+    "verseCount": 20
+  },
+  {
+    "day": 24,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 15,
+    "reference": "Mateus 15",
+    "highlightVerse": 1,
+    "highlightText": "Então chegaram ao pé de Jesus uns escribas e fariseus de Jerusalém, dizendo:",
+    "verseCount": 39
+  },
+  {
+    "day": 25,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 10,
+    "reference": "Salmos 10",
+    "highlightVerse": 1,
+    "highlightText": "Por que estás ao longe, SENHOR? Por que te escondes nos tempos de angústia?",
+    "verseCount": 18
+  },
+  {
+    "day": 26,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 16,
+    "reference": "Mateus 16",
+    "highlightVerse": 1,
+    "highlightText": "E, chegando-se os fariseus e os saduceus, para o tentarem, pediram-lhe que lhes mostrasse algum sinal do céu.",
+    "verseCount": 28
+  },
+  {
+    "day": 27,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 17,
+    "reference": "Mateus 17",
+    "highlightVerse": 1,
+    "highlightText": "Seis dias depois, tomou Jesus consigo a Pedro, e a Tiago, e a João, seu irmão, e os conduziu em particular a um alto monte,",
+    "verseCount": 27
+  },
+  {
+    "day": 28,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 11,
+    "reference": "Salmos 11",
+    "highlightVerse": 1,
+    "highlightText": "No SENHOR confio; como dizeis à minha alma: Fugi para a vossa montanha como pássaro?",
+    "verseCount": 7
+  },
+  {
+    "day": 29,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 18,
+    "reference": "Mateus 18",
+    "highlightVerse": 1,
+    "highlightText": "Naquela mesma hora chegaram os discípulos ao pé de Jesus, dizendo: Quem é o maior no reino dos céus?",
+    "verseCount": 35
+  },
+  {
+    "day": 30,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 12,
+    "reference": "Salmos 12",
+    "highlightVerse": 1,
+    "highlightText": "Salva-nos, SENHOR, porque faltam os homens bons; porque são poucos os fiéis entre os filhos dos homens.",
+    "verseCount": 8
+  },
+  {
+    "day": 31,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 19,
+    "reference": "Mateus 19",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, concluindo Jesus estes discursos, saiu da Galiléia, e dirigiu- se aos confins da Judéia, além do Jordão;",
+    "verseCount": 30
+  },
+  {
+    "day": 32,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 20,
+    "reference": "Mateus 20",
+    "highlightVerse": 1,
+    "highlightText": "Porque o reino dos céus é semelhante a um homem, pai de família, que saiu de madrugada a assalariar trabalhadores para a sua vinha.",
+    "verseCount": 34
+  },
+  {
+    "day": 33,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 13,
+    "reference": "Salmos 13",
+    "highlightVerse": 1,
+    "highlightText": "Até quando te esquecerás de mim, SENHOR? Para sempre? Até quando esconderás de mim o teu rosto?",
+    "verseCount": 6
+  },
+  {
+    "day": 34,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 21,
+    "reference": "Mateus 21",
+    "highlightVerse": 1,
+    "highlightText": "E, quando se aproximaram de Jerusalém, e chegaram a Betfagé, ao Monte das Oliveiras, enviou, então, Jesus dois discípulos, dizendo-lhes:",
+    "verseCount": 46
+  },
+  {
+    "day": 35,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 14,
+    "reference": "Salmos 14",
+    "highlightVerse": 1,
+    "highlightText": "Disse o néscio no seu coração: Não há Deus. Têm-se corrompido, fazem-se abomináveis em suas obras, não há ninguém que faça o bem.",
+    "verseCount": 7
+  },
+  {
+    "day": 36,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 22,
+    "reference": "Mateus 22",
+    "highlightVerse": 1,
+    "highlightText": "Então Jesus, tomando a palavra, tornou a falar-lhes em parábolas, dizendo:",
+    "verseCount": 46
+  },
+  {
+    "day": 37,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 23,
+    "reference": "Mateus 23",
+    "highlightVerse": 1,
+    "highlightText": "Então falou Jesus à multidão, e aos seus discípulos,",
+    "verseCount": 39
+  },
+  {
+    "day": 38,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 15,
+    "reference": "Salmos 15",
+    "highlightVerse": 1,
+    "highlightText": "SENHOR, quem habitará no teu tabernáculo? Quem morará no teu santo monte?",
+    "verseCount": 5
+  },
+  {
+    "day": 39,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 24,
+    "reference": "Mateus 24",
+    "highlightVerse": 1,
+    "highlightText": "E, quando Jesus ia saindo do templo, aproximaram-se dele os seus discípulos para lhe mostrarem a estrutura do templo.",
+    "verseCount": 51
+  },
+  {
+    "day": 40,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 16,
+    "reference": "Salmos 16",
+    "highlightVerse": 1,
+    "highlightText": "Guarda-me, ó Deus, porque em ti confio.",
+    "verseCount": 11
+  },
+  {
+    "day": 41,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 25,
+    "reference": "Mateus 25",
+    "highlightVerse": 1,
+    "highlightText": "Então o reino dos céus será semelhante a dez virgens que, tomando as suas lâmpadas, saíram ao encontro do esposo.",
+    "verseCount": 46
+  },
+  {
+    "day": 42,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 26,
+    "reference": "Mateus 26",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, quando Jesus concluiu todos estes discursos, disse aos seus discípulos:",
+    "verseCount": 75
+  },
+  {
+    "day": 43,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 17,
+    "reference": "Salmos 17",
+    "highlightVerse": 1,
+    "highlightText": "Ouve, SENHOR, a justiça; atende ao meu clamor; dá ouvidos à minha oração, que não é feita com lábios enganosos.",
+    "verseCount": 15
+  },
+  {
+    "day": 44,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 27,
+    "reference": "Mateus 27",
+    "highlightVerse": 1,
+    "highlightText": "E, chegando a manhã, todos os príncipes dos sacerdotes, e os anciãos do povo, formavam juntamente conselho contra Jesus, para o matarem;",
+    "verseCount": 66
+  },
+  {
+    "day": 45,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 18,
+    "reference": "Salmos 18",
+    "highlightVerse": 1,
+    "highlightText": "Eu te amarei, ó SENHOR, fortaleza minha.",
+    "verseCount": 50
+  },
+  {
+    "day": 46,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 28,
+    "reference": "Mateus 28",
+    "highlightVerse": 1,
+    "highlightText": "E, no fim do sábado, quando já despontava o primeiro dia da semana, Maria Madalena e a outra Maria foram ver o sepulcro.",
+    "verseCount": 20
+  },
+  {
+    "day": 47,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 1,
+    "reference": "Marcos 1",
+    "highlightVerse": 1,
+    "highlightText": "Princípio do Evangelho de Jesus Cristo, Filho de Deus;",
+    "verseCount": 45
+  },
+  {
+    "day": 48,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 19,
+    "reference": "Salmos 19",
+    "highlightVerse": 1,
+    "highlightText": "Os céus declaram a glória de Deus e o firmamento anuncia a obra das suas mãos.",
+    "verseCount": 14
+  },
+  {
+    "day": 49,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 2,
+    "reference": "Marcos 2",
+    "highlightVerse": 1,
+    "highlightText": "E alguns dias depois entrou outra vez em Cafarnaum, e soube-se que estava em casa.",
+    "verseCount": 28
+  },
+  {
+    "day": 50,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 20,
+    "reference": "Salmos 20",
+    "highlightVerse": 1,
+    "highlightText": "O SENHOR te ouça no dia da angústia, o nome do Deus de Jacó te proteja.",
+    "verseCount": 9
+  },
+  {
+    "day": 51,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 3,
+    "reference": "Marcos 3",
+    "highlightVerse": 1,
+    "highlightText": "E outra vez entrou na sinagoga, e estava ali um homem que tinha uma das mãos mirrada.",
+    "verseCount": 35
+  },
+  {
+    "day": 52,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 21,
+    "reference": "Salmos 21",
+    "highlightVerse": 1,
+    "highlightText": "O rei se alegra em tua força, SENHOR; e na tua salvação grandemente se regozija.",
+    "verseCount": 13
+  },
+  {
+    "day": 53,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 4,
+    "reference": "Marcos 4",
+    "highlightVerse": 1,
+    "highlightText": "E outra vez começou a ensinar junto do mar, e ajuntou-se a ele grande multidão, de sorte que ele entrou e assentou-se num barco, sobre o mar; e toda a multidão estava em terra junto do mar.",
+    "verseCount": 41
+  },
+  {
+    "day": 54,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 5,
+    "reference": "Marcos 5",
+    "highlightVerse": 1,
+    "highlightText": "E chegaram ao outro lado do mar, à província dos gadarenos.",
+    "verseCount": 43
+  },
+  {
+    "day": 55,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 22,
+    "reference": "Salmos 22",
+    "highlightVerse": 1,
+    "highlightText": "Deus meu, Deus meu, por que me desamparaste? Por que te alongas do meu auxílio e das palavras do meu bramido?",
+    "verseCount": 31
+  },
+  {
+    "day": 56,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 6,
+    "reference": "Marcos 6",
+    "highlightVerse": 1,
+    "highlightText": "E, partindo dali, chegou à sua pátria, e os seus discípulos o seguiram.",
+    "verseCount": 56
+  },
+  {
+    "day": 57,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 23,
+    "reference": "Salmos 23",
+    "highlightVerse": 1,
+    "highlightText": "O SENHOR é o meu pastor, nada me faltará.",
+    "verseCount": 6
+  },
+  {
+    "day": 58,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 7,
+    "reference": "Marcos 7",
+    "highlightVerse": 1,
+    "highlightText": "E ajuntaram-se a ele os fariseus, e alguns dos escribas que tinham vindo de Jerusalém.",
+    "verseCount": 37
+  },
+  {
+    "day": 59,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 8,
+    "reference": "Marcos 8",
+    "highlightVerse": 1,
+    "highlightText": "Naqueles dias, havendo uma grande multidão, e não tendo o que comer, Jesus chamou a si os seus discípulos, e disse-lhes:",
+    "verseCount": 38
+  },
+  {
+    "day": 60,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 24,
+    "reference": "Salmos 24",
+    "highlightVerse": 1,
+    "highlightText": "Do SENHOR é a terra e a sua plenitude, o mundo e aqueles que nele habitam.",
+    "verseCount": 10
+  },
+  {
+    "day": 61,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 9,
+    "reference": "Marcos 9",
+    "highlightVerse": 1,
+    "highlightText": "Dizia-lhes também: Em verdade vos digo que, dos que aqui estão, alguns há que não provarão a morte sem que vejam chegado o reino de Deus com poder.",
+    "verseCount": 50
+  },
+  {
+    "day": 62,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 25,
+    "reference": "Salmos 25",
+    "highlightVerse": 1,
+    "highlightText": "A ti, SENHOR, levanto a minha alma.",
+    "verseCount": 22
+  },
+  {
+    "day": 63,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 10,
+    "reference": "Marcos 10",
+    "highlightVerse": 1,
+    "highlightText": "E, levantando-se dali, foi para os termos da Judéia, além do Jordão, e a multidão se reuniu em torno dele; e tornou a ensiná-los, como tinha por costume.",
+    "verseCount": 52
+  },
+  {
+    "day": 64,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 11,
+    "reference": "Marcos 11",
+    "highlightVerse": 1,
+    "highlightText": "E, logo que se aproximaram de Jerusalém, de Betfagé e de Betânia, junto do Monte das Oliveiras, enviou dois dos seus discípulos,",
+    "verseCount": 33
+  },
+  {
+    "day": 65,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 26,
+    "reference": "Salmos 26",
+    "highlightVerse": 1,
+    "highlightText": "Julga-me, SENHOR, pois tenho andado em minha sinceridade; tenho confiado também no SENHOR; não vacilarei.",
+    "verseCount": 12
+  },
+  {
+    "day": 66,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 12,
+    "reference": "Marcos 12",
+    "highlightVerse": 1,
+    "highlightText": "E começou a falar-lhes por parábolas: Um homem plantou uma vinha, e cercou-a de um valado, e fundou nela um lagar, e edificou uma torre, e arrendou-a a uns lavradores, e partiu para fora da terra.",
+    "verseCount": 44
+  },
+  {
+    "day": 67,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 27,
+    "reference": "Salmos 27",
+    "highlightVerse": 1,
+    "highlightText": "O SENHOR é a minha luz e a minha salvação; a quem temerei? O SENHOR é a força da minha vida; de quem me recearei?",
+    "verseCount": 14
+  },
+  {
+    "day": 68,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 13,
+    "reference": "Marcos 13",
+    "highlightVerse": 1,
+    "highlightText": "E, saindo ele do templo, disse-lhe um dos seus discípulos: Mestre, olha que pedras, e que edifícios!",
+    "verseCount": 37
+  },
+  {
+    "day": 69,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 14,
+    "reference": "Marcos 14",
+    "highlightVerse": 1,
+    "highlightText": "E dali a dois dias era a páscoa, e a festa dos pães ázimos; e os principais dos sacerdotes e os escribas buscavam como o prenderiam com dolo, e o matariam.",
+    "verseCount": 72
+  },
+  {
+    "day": 70,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 28,
+    "reference": "Salmos 28",
+    "highlightVerse": 1,
+    "highlightText": "A ti clamarei, ó Senhor, Rocha minha; não emudeças para comigo; não aconteça, cal ando-te tu para comigo, que eu fique semelhante aos que descem ao abismo.",
+    "verseCount": 9
+  },
+  {
+    "day": 71,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 15,
+    "reference": "Marcos 15",
+    "highlightVerse": 1,
+    "highlightText": "E, logo ao amanhecer, os principais dos sacerdotes, com os anciãos, e os escribas, e todo o Sinédrio, tiveram conselho; e, ligando Jesus, o levaram e entregaram a Pilatos.",
+    "verseCount": 47
+  },
+  {
+    "day": 72,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 29,
+    "reference": "Salmos 29",
+    "highlightVerse": 1,
+    "highlightText": "Dai ao SENHOR, ó filhos dos poderosos, dai ao SENHOR glória e força.",
+    "verseCount": 11
+  },
+  {
+    "day": 73,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 16,
+    "reference": "Marcos 16",
+    "highlightVerse": 1,
+    "highlightText": "E, passado o sábado, Maria Madalena, e Maria, mãe de Tiago, e Salomé, compraram aromas para irem ungi-lo.",
+    "verseCount": 20
+  },
+  {
+    "day": 74,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 1,
+    "reference": "Lucas 1",
+    "highlightVerse": 1,
+    "highlightText": "Tendo, pois, muitos empreendido pôr em ordem a narração dos fatos que entre nós se cumpriram,",
+    "verseCount": 80
+  },
+  {
+    "day": 75,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 30,
+    "reference": "Salmos 30",
+    "highlightVerse": 1,
+    "highlightText": "Exaltar-te-ei, ó SENHOR, porque tu me exaltaste; e não fizeste com que meus inimigos se alegrassem sobre mim.",
+    "verseCount": 12
+  },
+  {
+    "day": 76,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 2,
+    "reference": "Lucas 2",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu naqueles dias que saiu um decreto da parte de César Augusto, para que todo o mundo se alistasse",
+    "verseCount": 52
+  },
+  {
+    "day": 77,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 31,
+    "reference": "Salmos 31",
+    "highlightVerse": 1,
+    "highlightText": "Em ti, SENHOR, confio; nunca me deixes confundido. Livra-me pela tua justiça.",
+    "verseCount": 24
+  },
+  {
+    "day": 78,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 3,
+    "reference": "Lucas 3",
+    "highlightVerse": 1,
+    "highlightText": "E no ano quinze do império de Tibério César, sendo Pôncio Pilatos presidente da Judéia, e Herodes tetrarca da Galiléia, e seu irmão Filipe tetrarca da Ituréia e da província de Traconites, e Lisânias tetrarca de Abilene,",
+    "verseCount": 38
+  },
+  {
+    "day": 79,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 4,
+    "reference": "Lucas 4",
+    "highlightVerse": 1,
+    "highlightText": "E Jesus, cheio do Espírito Santo, voltou do Jordão e foi levado pelo Espírito ao deserto;",
+    "verseCount": 44
+  },
+  {
+    "day": 80,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 32,
+    "reference": "Salmos 32",
+    "highlightVerse": 1,
+    "highlightText": "Bem-aventurado aquele cuja transgressão é perdoada, e cujo pecado é coberto.",
+    "verseCount": 11
+  },
+  {
+    "day": 81,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 5,
+    "reference": "Lucas 5",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, apertando-o a multidão, para ouvir a palavra de Deus, estava ele junto ao lago de Genesaré;",
+    "verseCount": 39
+  },
+  {
+    "day": 82,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 33,
+    "reference": "Salmos 33",
+    "highlightVerse": 1,
+    "highlightText": "Regozijai-vos no SENHOR, vós justos, pois aos retos convém o louvor.",
+    "verseCount": 22
+  },
+  {
+    "day": 83,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 6,
+    "reference": "Lucas 6",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, no segundo sábado após o primeiro, passou pelas searas, e os seus discípulos iam arrancando espigas e, esfregando-as com as mãos, as comiam.",
+    "verseCount": 49
+  },
+  {
+    "day": 84,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 7,
+    "reference": "Lucas 7",
+    "highlightVerse": 1,
+    "highlightText": "E, depois de concluir todos estes discursos perante o povo, entrou em Cafarnaum.",
+    "verseCount": 50
+  },
+  {
+    "day": 85,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 34,
+    "reference": "Salmos 34",
+    "highlightVerse": 1,
+    "highlightText": "Louvarei ao SENHOR em todo o tempo; o seu louvor estará continuamente na minha boca.",
+    "verseCount": 22
+  },
+  {
+    "day": 86,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 8,
+    "reference": "Lucas 8",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu, depois disto, que andava de cidade em cidade, e de aldeia em aldeia, pregando e anunciando o evangelho do reino de Deus; e os doze iam com ele,",
+    "verseCount": 56
+  },
+  {
+    "day": 87,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 35,
+    "reference": "Salmos 35",
+    "highlightVerse": 1,
+    "highlightText": "Pleiteia, SENHOR, com aqueles que pleiteiam comigo; peleja contra os que pelejam contra mim.",
+    "verseCount": 28
+  },
+  {
+    "day": 88,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 9,
+    "reference": "Lucas 9",
+    "highlightVerse": 1,
+    "highlightText": "E, convocando os seus doze discípulos, deu-lhes virtude e poder sobre todos os demônios, para curarem enfermidades.",
+    "verseCount": 62
+  },
+  {
+    "day": 89,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 10,
+    "reference": "Lucas 10",
+    "highlightVerse": 1,
+    "highlightText": "E depois disto designou o Senhor ainda outros setenta, e mandou-os adiante da sua face, de dois em dois, a todas as cidades e lugares aonde ele havia de ir.",
+    "verseCount": 42
+  },
+  {
+    "day": 90,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 36,
+    "reference": "Salmos 36",
+    "highlightVerse": 1,
+    "highlightText": "A transgressão do ímpio diz no íntimo do meu coração: Não há temor de Deus perante os seus olhos.",
+    "verseCount": 12
+  },
+  {
+    "day": 91,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 11,
+    "reference": "Lucas 11",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, estando ele a orar num certo lugar, quando acabou, lhe disse um dos seus discípulos: Senhor, ensina-nos a orar, como também João ensinou aos seus discípulos.",
+    "verseCount": 54
+  },
+  {
+    "day": 92,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 37,
+    "reference": "Salmos 37",
+    "highlightVerse": 1,
+    "highlightText": "NÃO te indignes por causa dos malfeitores, nem tenhas inveja dos que praticam a iniqüidade.",
+    "verseCount": 40
+  },
+  {
+    "day": 93,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 12,
+    "reference": "Lucas 12",
+    "highlightVerse": 1,
+    "highlightText": "Ajuntando-se entretanto muitos milhares de pessoas, de sorte que se atropelavam uns aos outros, começou a dizer aos seus discípulos: Acautelai-vos primeiramente do fermento dos fariseus, que é a hipocrisia.",
+    "verseCount": 59
+  },
+  {
+    "day": 94,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 13,
+    "reference": "Lucas 13",
+    "highlightVerse": 1,
+    "highlightText": "E, Naquele mesmo tempo, estavam presentes ali alguns que lhe falavam dos galileus, cujo sangue Pilatos misturara com os seus sacrifícios.",
+    "verseCount": 35
+  },
+  {
+    "day": 95,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 38,
+    "reference": "Salmos 38",
+    "highlightVerse": 1,
+    "highlightText": "Ó Senhor, não me repreendas na tua ira, nem me castigues no teu furor.",
+    "verseCount": 22
+  },
+  {
+    "day": 96,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 14,
+    "reference": "Lucas 14",
+    "highlightVerse": 1,
+    "highlightText": "Aconteceu num sábado que, entrando ele em casa de um dos principais dos fariseus para comer pão, eles o estavam observando.",
+    "verseCount": 35
+  },
+  {
+    "day": 97,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 39,
+    "reference": "Salmos 39",
+    "highlightVerse": 1,
+    "highlightText": "Eu disse: Guardarei os meus caminhos para não pecar com a minha língua; guardarei a boca com um freio, enquanto o ímpio estiver diante de mim.",
+    "verseCount": 13
+  },
+  {
+    "day": 98,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 15,
+    "reference": "Lucas 15",
+    "highlightVerse": 1,
+    "highlightText": "E Chegavam-se a ele todos os publicanos e pecadores para o ouvir.",
+    "verseCount": 32
+  },
+  {
+    "day": 99,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 16,
+    "reference": "Lucas 16",
+    "highlightVerse": 1,
+    "highlightText": "E dizia também aos seus discípulos: Havia um certo homem rico, o qual tinha um mordomo; e este foi acusado perante ele de dissipar os seus bens.",
+    "verseCount": 31
+  },
+  {
+    "day": 100,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 40,
+    "reference": "Salmos 40",
+    "highlightVerse": 1,
+    "highlightText": "Esperei com paciência no SENHOR, e ele se inclinou para mim, e ouviu o meu clamor.",
+    "verseCount": 17
+  },
+  {
+    "day": 101,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 17,
+    "reference": "Lucas 17",
+    "highlightVerse": 1,
+    "highlightText": "E disse aos discípulos: É impossível que não venham escândalos, mas ai daquele por quem vierem!",
+    "verseCount": 37
+  },
+  {
+    "day": 102,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 41,
+    "reference": "Salmos 41",
+    "highlightVerse": 1,
+    "highlightText": "Bem-aventurado é aquele que atende ao pobre; o SENHOR o livrará no dia do mal.",
+    "verseCount": 13
+  },
+  {
+    "day": 103,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 18,
+    "reference": "Lucas 18",
+    "highlightVerse": 1,
+    "highlightText": "E contou-lhes também uma parábola sobre o dever de orar sempre, e nunca desfalecer,",
+    "verseCount": 43
+  },
+  {
+    "day": 104,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 19,
+    "reference": "Lucas 19",
+    "highlightVerse": 1,
+    "highlightText": "E, tendo Jesus entrado em Jericó, ia passando.",
+    "verseCount": 48
+  },
+  {
+    "day": 105,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 42,
+    "reference": "Salmos 42",
+    "highlightVerse": 1,
+    "highlightText": "Assim como o cervo brama pelas correntes das águas, assim suspira a minha alma por ti, ó Deus!",
+    "verseCount": 11
+  },
+  {
+    "day": 106,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 20,
+    "reference": "Lucas 20",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu num daqueles dias que, estando ele ensinando o povo no templo, e anunciando o evangelho, sobrevieram os principais dos sacerdotes e os escribas com os anciãos,",
+    "verseCount": 47
+  },
+  {
+    "day": 107,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 43,
+    "reference": "Salmos 43",
+    "highlightVerse": 1,
+    "highlightText": "Faze-me justiça, ó Deus, e pleiteia a minha causa contra a nação ímpia. Livra-me do homem fraudulento e injusto.",
+    "verseCount": 5
+  },
+  {
+    "day": 108,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 21,
+    "reference": "Lucas 21",
+    "highlightVerse": 1,
+    "highlightText": "E, olhando ele, viu os ricos lançarem as suas ofertas na arca do tesouro;",
+    "verseCount": 38
+  },
+  {
+    "day": 109,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 44,
+    "reference": "Salmos 44",
+    "highlightVerse": 1,
+    "highlightText": "Ó Deus, nós ouvimos com os nossos ouvidos, e nossos pais nos têm contado a obra que fizeste em seus dias, nos tempos da antiguidade.",
+    "verseCount": 26
+  },
+  {
+    "day": 110,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 22,
+    "reference": "Lucas 22",
+    "highlightVerse": 1,
+    "highlightText": "Estava, pois, perto a festa dos pães ázimos, chamada a páscoa.",
+    "verseCount": 71
+  },
+  {
+    "day": 111,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 23,
+    "reference": "Lucas 23",
+    "highlightVerse": 1,
+    "highlightText": "E, levantando-se toda a multidão deles, o levaram a Pilatos.",
+    "verseCount": 56
+  },
+  {
+    "day": 112,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 45,
+    "reference": "Salmos 45",
+    "highlightVerse": 1,
+    "highlightText": "O meu coração ferve com palavras boas, falo do que tenho feito no tocante ao Rei. A minha língua é a pena de um destro escritor.",
+    "verseCount": 17
+  },
+  {
+    "day": 113,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 24,
+    "reference": "Lucas 24",
+    "highlightVerse": 1,
+    "highlightText": "E no primeiro dia da semana, muito de madrugada, foram elas ao sepulcro, levando as especiarias que tinham preparado, e algumas outras com elas.",
+    "verseCount": 53
+  },
+  {
+    "day": 114,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 46,
+    "reference": "Salmos 46",
+    "highlightVerse": 1,
+    "highlightText": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
+    "verseCount": 11
+  },
+  {
+    "day": 115,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 1,
+    "reference": "João 1",
+    "highlightVerse": 1,
+    "highlightText": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+    "verseCount": 51
+  },
+  {
+    "day": 116,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 2,
+    "reference": "João 2",
+    "highlightVerse": 1,
+    "highlightText": "E, ao terceiro dia, fizeram-se umas bodas em Caná da Galiléia; e estava ali a mãe de Jesus.",
+    "verseCount": 25
+  },
+  {
+    "day": 117,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 47,
+    "reference": "Salmos 47",
+    "highlightVerse": 1,
+    "highlightText": "Batei palmas, todos os povos; aclamai a Deus com voz de triunfo.",
+    "verseCount": 9
+  },
+  {
+    "day": 118,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 3,
+    "reference": "João 3",
+    "highlightVerse": 1,
+    "highlightText": "E havia entre os fariseus um homem, chamado Nicodemos, príncipe dos judeus.",
+    "verseCount": 36
+  },
+  {
+    "day": 119,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 48,
+    "reference": "Salmos 48",
+    "highlightVerse": 1,
+    "highlightText": "Grande é o SENHOR e mui digno de louvor, na cidade do nosso Deus, no seu monte santo.",
+    "verseCount": 14
+  },
+  {
+    "day": 120,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 4,
+    "reference": "João 4",
+    "highlightVerse": 1,
+    "highlightText": "E quando o Senhor entendeu que os fariseus tinham ouvido que Jesus fazia e batizava mais discípulos do que João",
+    "verseCount": 54
+  },
+  {
+    "day": 121,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 5,
+    "reference": "João 5",
+    "highlightVerse": 1,
+    "highlightText": "Depois disto havia uma festa entre os judeus, e Jesus subiu a Jerusalém.",
+    "verseCount": 47
+  },
+  {
+    "day": 122,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 49,
+    "reference": "Salmos 49",
+    "highlightVerse": 1,
+    "highlightText": "Ouvi isto, vós todos os povos; inclinai os ouvidos, todos os moradores do mundo,",
+    "verseCount": 20
+  },
+  {
+    "day": 123,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 6,
+    "reference": "João 6",
+    "highlightVerse": 1,
+    "highlightText": "Depois disto partiu Jesus para o outro lado do mar da Galiléia, que é o de Tiberíades.",
+    "verseCount": 71
+  },
+  {
+    "day": 124,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 50,
+    "reference": "Salmos 50",
+    "highlightVerse": 1,
+    "highlightText": "O Deus poderoso, o SENHOR, falou e chamou a terra desde o nascimento do sol até ao seu ocaso.",
+    "verseCount": 23
+  },
+  {
+    "day": 125,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 7,
+    "reference": "João 7",
+    "highlightVerse": 1,
+    "highlightText": "E depois disto Jesus andava pela Galiléia, e já não queria andar pela Judéia, pois os judeus procuravam matá-lo.",
+    "verseCount": 53
+  },
+  {
+    "day": 126,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 8,
+    "reference": "João 8",
+    "highlightVerse": 1,
+    "highlightText": "Jesus, porém, foi para o Monte das Oliveiras.",
+    "verseCount": 59
+  },
+  {
+    "day": 127,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 51,
+    "reference": "Salmos 51",
+    "highlightVerse": 1,
+    "highlightText": "Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias.",
+    "verseCount": 19
+  },
+  {
+    "day": 128,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 9,
+    "reference": "João 9",
+    "highlightVerse": 1,
+    "highlightText": "E, passando Jesus, viu um homem cego de nascença.",
+    "verseCount": 41
+  },
+  {
+    "day": 129,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 52,
+    "reference": "Salmos 52",
+    "highlightVerse": 1,
+    "highlightText": "Por que te glorias na malícia, ó homem poderoso? Pois a bondade de Deus permanece continuamente.",
+    "verseCount": 9
+  },
+  {
+    "day": 130,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 10,
+    "reference": "João 10",
+    "highlightVerse": 1,
+    "highlightText": "Na verdade, na verdade vos digo que aquele que não entra pela porta no curral das ovelhas, mas sobe por outra parte, é ladrão e salteador.",
+    "verseCount": 42
+  },
+  {
+    "day": 131,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 11,
+    "reference": "João 11",
+    "highlightVerse": 1,
+    "highlightText": "Estava, porém, enfermo um certo Lázaro, de betânia, aldeia de Maria e de sua irmã Marta.",
+    "verseCount": 57
+  },
+  {
+    "day": 132,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 53,
+    "reference": "Salmos 53",
+    "highlightVerse": 1,
+    "highlightText": "Disse o néscio no seu coração: Não há Deus. Têm-se corrompido, e cometido abominável iniqüidade; não há ninguém que faça o bem.",
+    "verseCount": 6
+  },
+  {
+    "day": 133,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 12,
+    "reference": "João 12",
+    "highlightVerse": 1,
+    "highlightText": "Foi, pois, Jesus seis dias antes da páscoa a betânia, onde estava Lázaro, o que falecera, e a quem ressuscitara dentre os mortos.",
+    "verseCount": 50
+  },
+  {
+    "day": 134,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 54,
+    "reference": "Salmos 54",
+    "highlightVerse": 1,
+    "highlightText": "Salva-me, ó Deus, pelo teu nome, e faze-me justiça pelo teu poder.",
+    "verseCount": 7
+  },
+  {
+    "day": 135,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 13,
+    "reference": "João 13",
+    "highlightVerse": 1,
+    "highlightText": "Ora, antes da festa da páscoa, sabendo Jesus que já era chegada a sua hora de passar deste mundo para o Pai, como havia amado os seus, que estavam no mundo, amou-os até o fim.",
+    "verseCount": 38
+  },
+  {
+    "day": 136,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 14,
+    "reference": "João 14",
+    "highlightVerse": 1,
+    "highlightText": "Não se turbe o vosso coração; credes em Deus, crede também em mim.",
+    "verseCount": 31
+  },
+  {
+    "day": 137,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 55,
+    "reference": "Salmos 55",
+    "highlightVerse": 1,
+    "highlightText": "Inclina, ó Deus, os teus ouvidos à minha oração, e não te escondas da minha súplica.",
+    "verseCount": 23
+  },
+  {
+    "day": 138,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 15,
+    "reference": "João 15",
+    "highlightVerse": 1,
+    "highlightText": "Eu sou a videira verdadeira, e meu Pai é o lavrador.",
+    "verseCount": 27
+  },
+  {
+    "day": 139,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 56,
+    "reference": "Salmos 56",
+    "highlightVerse": 1,
+    "highlightText": "Tem misericórdia de mim, ó Deus, porque o homem procura devorar-me; pelejando todo dia, me oprime.",
+    "verseCount": 13
+  },
+  {
+    "day": 140,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 16,
+    "reference": "João 16",
+    "highlightVerse": 1,
+    "highlightText": "Tenho-vos dito estas coisas para que vos não escandalizeis.",
+    "verseCount": 33
+  },
+  {
+    "day": 141,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 17,
+    "reference": "João 17",
+    "highlightVerse": 1,
+    "highlightText": "Jesus falou assim e, levantando seus olhos ao céu, e disse: Pai, é chegada a hora; glorifica a teu Filho, para que também o teu Filho te glorifique a ti;",
+    "verseCount": 26
+  },
+  {
+    "day": 142,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 57,
+    "reference": "Salmos 57",
+    "highlightVerse": 1,
+    "highlightText": "Tem misericórdia de mim, ó Deus, tem misericórdia de mim, porque a minha alma confia em ti; e à sombra das tuas asas me abrigo, até que passem as calamidades.",
+    "verseCount": 11
+  },
+  {
+    "day": 143,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 18,
+    "reference": "João 18",
+    "highlightVerse": 1,
+    "highlightText": "Tendo Jesus dito isto, saiu com os seus discípulos para além do ribeiro de Cedrom, onde havia um horto, no qual ele entrou e seus discípulos.",
+    "verseCount": 40
+  },
+  {
+    "day": 144,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 58,
+    "reference": "Salmos 58",
+    "highlightVerse": 1,
+    "highlightText": "Acaso falais vós, deveras, ó congregação, a justiça? Julgais retamente, ó filhos dos homens?",
+    "verseCount": 11
+  },
+  {
+    "day": 145,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 19,
+    "reference": "João 19",
+    "highlightVerse": 1,
+    "highlightText": "Pilatos, pois, tomou então a Jesus, e o açoitou.",
+    "verseCount": 42
+  },
+  {
+    "day": 146,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 20,
+    "reference": "João 20",
+    "highlightVerse": 1,
+    "highlightText": "E no primeiro dia da semana, Maria Madalena foi ao sepulcro de madrugada, sendo ainda escuro, e viu a pedra tirada do sepulcro.",
+    "verseCount": 31
+  },
+  {
+    "day": 147,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 59,
+    "reference": "Salmos 59",
+    "highlightVerse": 1,
+    "highlightText": "Livra-me, meu Deus, dos meus inimigos, defende-me daqueles que se levantam contra mim.",
+    "verseCount": 17
+  },
+  {
+    "day": 148,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 21,
+    "reference": "João 21",
+    "highlightVerse": 1,
+    "highlightText": "Depois disto manifestou-se Jesus outra vez aos discípulos junto do mar de Tiberíades; e manifestou-se assim:",
+    "verseCount": 25
+  },
+  {
+    "day": 149,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 60,
+    "reference": "Salmos 60",
+    "highlightVerse": 1,
+    "highlightText": "Ó Deus, tu nos rejeitaste, tu nos espalhaste, tu te indignaste; oh, volta-te para nós.",
+    "verseCount": 12
+  },
+  {
+    "day": 150,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 1,
+    "reference": "Atos 1",
+    "highlightVerse": 1,
+    "highlightText": "Fiz o primeiro tratado, ó Teófilo, acerca de tudo que Jesus começou, não só a fazer, mas a ensinar,",
+    "verseCount": 26
+  },
+  {
+    "day": 151,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 2,
+    "reference": "Atos 2",
+    "highlightVerse": 1,
+    "highlightText": "E, cumprindo-se o dia de Pentecostes, estavam todos concordemente no mesmo lugar;",
+    "verseCount": 47
+  },
+  {
+    "day": 152,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 61,
+    "reference": "Salmos 61",
+    "highlightVerse": 1,
+    "highlightText": "Ouve, ó Deus, o meu clamor; atende à minha oração.",
+    "verseCount": 8
+  },
+  {
+    "day": 153,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 3,
+    "reference": "Atos 3",
+    "highlightVerse": 1,
+    "highlightText": "E Pedro e João subiam juntos ao templo à hora da oração, a nona.",
+    "verseCount": 26
+  },
+  {
+    "day": 154,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 62,
+    "reference": "Salmos 62",
+    "highlightVerse": 1,
+    "highlightText": "A minha alma espera somente em Deus; dele vem a minha salvação.",
+    "verseCount": 12
+  },
+  {
+    "day": 155,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 4,
+    "reference": "Atos 4",
+    "highlightVerse": 1,
+    "highlightText": "E, estando eles falando ao povo, sobrevieram os sacerdotes, e o capitão do templo, e os saduceus,",
+    "verseCount": 37
+  },
+  {
+    "day": 156,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 5,
+    "reference": "Atos 5",
+    "highlightVerse": 1,
+    "highlightText": "Mas um certo homem chamado Ananias, com Safira, sua mulher, vendeu uma propriedade,",
+    "verseCount": 42
+  },
+  {
+    "day": 157,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 63,
+    "reference": "Salmos 63",
+    "highlightVerse": 1,
+    "highlightText": "O Deus, tu és o meu Deus, de madrugada te buscarei; a minha alma tem sede de ti; a minha carne te deseja muito em uma terra seca e cansada, onde não há água;",
+    "verseCount": 11
+  },
+  {
+    "day": 158,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 6,
+    "reference": "Atos 6",
+    "highlightVerse": 1,
+    "highlightText": "Ora, naqueles dias, crescendo o número dos discípulos, houve uma murmuração dos gregos contra os hebreus, porque as suas viúvas eram desprezadas no ministério cotidiano.",
+    "verseCount": 15
+  },
+  {
+    "day": 159,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 64,
+    "reference": "Salmos 64",
+    "highlightVerse": 1,
+    "highlightText": "Ouve, ó Deus, a minha voz na minha oração; guarda a minha vida do temor do inimigo.",
+    "verseCount": 10
+  },
+  {
+    "day": 160,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 7,
+    "reference": "Atos 7",
+    "highlightVerse": 1,
+    "highlightText": "E disse o sumo sacerdote: Porventura é isto assim?",
+    "verseCount": 60
+  },
+  {
+    "day": 161,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 65,
+    "reference": "Salmos 65",
+    "highlightVerse": 1,
+    "highlightText": "A ti, ó Deus, espera o louvor em Sião, e a ti se pagará o voto.",
+    "verseCount": 13
+  },
+  {
+    "day": 162,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 8,
+    "reference": "Atos 8",
+    "highlightVerse": 1,
+    "highlightText": "E também Saulo consentiu na morte dele. E fez-se naquele dia uma grande perseguição contra a igreja que estava em Jerusalém; e todos foram dispersos pelas terras da Judéia e de Samaria, exceto os apóstolos.",
+    "verseCount": 40
+  },
+  {
+    "day": 163,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 9,
+    "reference": "Atos 9",
+    "highlightVerse": 1,
+    "highlightText": "E Saulo, respirando ainda ameaças e mortes contra os discípulos do Senhor, dirigiu-se ao sumo sacerdote.",
+    "verseCount": 43
+  },
+  {
+    "day": 164,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 66,
+    "reference": "Salmos 66",
+    "highlightVerse": 1,
+    "highlightText": "Celebrai com júbilo a Deus, todas as terras.",
+    "verseCount": 20
+  },
+  {
+    "day": 165,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 10,
+    "reference": "Atos 10",
+    "highlightVerse": 1,
+    "highlightText": "E havia em Cesaréia um homem por nome Cornélio, centurião da coorte chamada italiana,",
+    "verseCount": 48
+  },
+  {
+    "day": 166,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 67,
+    "reference": "Salmos 67",
+    "highlightVerse": 1,
+    "highlightText": "Deus tenha misericórdia de nós e nos abençoe; e faça resplandecer o seu rosto sobre nós (Selá.)",
+    "verseCount": 7
+  },
+  {
+    "day": 167,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 11,
+    "reference": "Atos 11",
+    "highlightVerse": 1,
+    "highlightText": "E ouviram os apóstolos, e os irmãos que estavam na Judéia, que também os gentios tinham recebido a palavra de Deus.",
+    "verseCount": 30
+  },
+  {
+    "day": 168,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 12,
+    "reference": "Atos 12",
+    "highlightVerse": 1,
+    "highlightText": "E por aquele mesmo tempo o rei Herodes estendeu as mãos sobre alguns da igreja, para os maltratar;",
+    "verseCount": 25
+  },
+  {
+    "day": 169,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 68,
+    "reference": "Salmos 68",
+    "highlightVerse": 1,
+    "highlightText": "Levante-se Deus, e sejam dissipados os seus inimigos; fugirão de diante dele os que o odeiam.",
+    "verseCount": 35
+  },
+  {
+    "day": 170,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 13,
+    "reference": "Atos 13",
+    "highlightVerse": 1,
+    "highlightText": "E na igreja que estava em Antioquia havia alguns profetas e doutores, a saber: Barnabé e Simeão chamado Níger, e Lúcio, cireneu, e Manaém, que fora criado com Herodes o tetrarca, e Saulo.",
+    "verseCount": 52
+  },
+  {
+    "day": 171,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 69,
+    "reference": "Salmos 69",
+    "highlightVerse": 1,
+    "highlightText": "Livra-me, ó Deus, pois as águas entraram até à minha alma.",
+    "verseCount": 36
+  },
+  {
+    "day": 172,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 14,
+    "reference": "Atos 14",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que em Icônio entraram juntos na sinagoga dos judeus, e falaram de tal modo que creu uma grande multidão, não só de judeus mas de gregos.",
+    "verseCount": 28
+  },
+  {
+    "day": 173,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 15,
+    "reference": "Atos 15",
+    "highlightVerse": 1,
+    "highlightText": "Então alguns que tinham descido da Judéia ensinavam assim os irmãos: Se não vos circuncidardes conforme o uso de Moisés, não podeis salvar-vos.",
+    "verseCount": 41
+  },
+  {
+    "day": 174,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 70,
+    "reference": "Salmos 70",
+    "highlightVerse": 1,
+    "highlightText": "Apressa-te, ó Deus, em me livrar; SENHOR, apressa-te em ajudar-me.",
+    "verseCount": 5
+  },
+  {
+    "day": 175,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 16,
+    "reference": "Atos 16",
+    "highlightVerse": 1,
+    "highlightText": "E chegou a Derbe e Listra. E eis que estava ali um certo discípulo por nome Timóteo, filho de uma judia que era crente, mas de pai grego;",
+    "verseCount": 40
+  },
+  {
+    "day": 176,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 71,
+    "reference": "Salmos 71",
+    "highlightVerse": 1,
+    "highlightText": "Em ti, SENHOR, confio; nunca seja eu confundido.",
+    "verseCount": 24
+  },
+  {
+    "day": 177,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 17,
+    "reference": "Atos 17",
+    "highlightVerse": 1,
+    "highlightText": "E passando por Anfípolis e Apolônia, chegaram a Tessalônica, onde havia uma sinagoga de judeus.",
+    "verseCount": 34
+  },
+  {
+    "day": 178,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 18,
+    "reference": "Atos 18",
+    "highlightVerse": 1,
+    "highlightText": "E depois disto partiu Paulo de Atenas, e chegou a Corinto.",
+    "verseCount": 28
+  },
+  {
+    "day": 179,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 72,
+    "reference": "Salmos 72",
+    "highlightVerse": 1,
+    "highlightText": "Ó Deus, dá ao rei os teus juízos, e a tua justiça ao filho do rei.",
+    "verseCount": 20
+  },
+  {
+    "day": 180,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 19,
+    "reference": "Atos 19",
+    "highlightVerse": 1,
+    "highlightText": "E sucedeu que, enquanto Apolo estava em Corinto, Paulo, tendo passado por todas as regiões superiores, chegou a Éfeso; e achando ali alguns discípulos,",
+    "verseCount": 41
+  },
+  {
+    "day": 181,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 73,
+    "reference": "Salmos 73",
+    "highlightVerse": 1,
+    "highlightText": "Verdadeiramente bom é Deus para com Israel, para com os limpos de coração.",
+    "verseCount": 28
+  },
+  {
+    "day": 182,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 20,
+    "reference": "Atos 20",
+    "highlightVerse": 1,
+    "highlightText": "E, depois que cessou o alvoroço, Paulo chamou a si os discípulos e, abraçando-os, saiu para a macedônia.",
+    "verseCount": 38
+  },
+  {
+    "day": 183,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 21,
+    "reference": "Atos 21",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, separando-nos deles, navegamos e fomos correndo caminho direito, e chegamos a Cós, e no dia seguinte a Rodes, de onde passamos a Pátara.",
+    "verseCount": 40
+  },
+  {
+    "day": 184,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 74,
+    "reference": "Salmos 74",
+    "highlightVerse": 1,
+    "highlightText": "Ó Deus, por que nos rejeitaste para sempre? Por que se acende a tua ira contra as ovelhas do teu pasto?",
+    "verseCount": 23
+  },
+  {
+    "day": 185,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 22,
+    "reference": "Atos 22",
+    "highlightVerse": 1,
+    "highlightText": "Homens, irmàos e pais, ouvi agora a minha defesa perante vós",
+    "verseCount": 30
+  },
+  {
+    "day": 186,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 75,
+    "reference": "Salmos 75",
+    "highlightVerse": 1,
+    "highlightText": "A ti, ó Deus, glorificamos, a ti damos louvor, pois o teu nome está perto, as tuas maravilhas o declaram.",
+    "verseCount": 10
+  },
+  {
+    "day": 187,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 23,
+    "reference": "Atos 23",
+    "highlightVerse": 1,
+    "highlightText": "E, pondo Paulo os olhos no conselho, disse: Homens irmãos, até ao dia de hoje tenho andado diante de Deus com toda a boa consciência.",
+    "verseCount": 35
+  },
+  {
+    "day": 188,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 24,
+    "reference": "Atos 24",
+    "highlightVerse": 1,
+    "highlightText": "E, cinco dias depois, o sumo sacerdote Ananias desceu com os anciãos, e um certo Tértulo, orador, os quais compareceram perante o presidente contra Paulo.",
+    "verseCount": 27
+  },
+  {
+    "day": 189,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 76,
+    "reference": "Salmos 76",
+    "highlightVerse": 1,
+    "highlightText": "Conhecido é Deus em Judá; grande é o seu nome em Israel.",
+    "verseCount": 12
+  },
+  {
+    "day": 190,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 25,
+    "reference": "Atos 25",
+    "highlightVerse": 1,
+    "highlightText": "Entrando, pois, Festo na província, subiu dali a três dias de Cesaréia a Jerusalém.",
+    "verseCount": 27
+  },
+  {
+    "day": 191,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 77,
+    "reference": "Salmos 77",
+    "highlightVerse": 1,
+    "highlightText": "Clamei a Deus com a minha voz, a Deus levantei a minha voz, e ele inclinou para mim os ouvidos.",
+    "verseCount": 20
+  },
+  {
+    "day": 192,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 26,
+    "reference": "Atos 26",
+    "highlightVerse": 1,
+    "highlightText": "Depois Agripa disse a Paulo: É permitido que te defendas. Então Paulo, estendendo a mão em sua defesa, respondeu:",
+    "verseCount": 32
+  },
+  {
+    "day": 193,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 27,
+    "reference": "Atos 27",
+    "highlightVerse": 1,
+    "highlightText": "E, como se determinou que havíamos de navegar para a Itália, entregaram Paulo, e alguns outros presos, a um centurião por nome Júlio, da coorte augusta.",
+    "verseCount": 44
+  },
+  {
+    "day": 194,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 78,
+    "reference": "Salmos 78",
+    "highlightVerse": 1,
+    "highlightText": "Escutai a minha lei, povo meu; inclinai os vossos ouvidos às palavras da minha boca.",
+    "verseCount": 72
+  },
+  {
+    "day": 195,
+    "abbrev": "atos",
+    "book": "Atos",
+    "chapter": 28,
+    "reference": "Atos 28",
+    "highlightVerse": 1,
+    "highlightText": "E, havendo escapado, então souberam que a ilha se chamava Malta.",
+    "verseCount": 31
+  },
+  {
+    "day": 196,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 79,
+    "reference": "Salmos 79",
+    "highlightVerse": 1,
+    "highlightText": "Ó Deus, os gentios vieram à tua herança; contaminaram o teu santo templo; reduziram Jerusalém a montões de pedras.",
+    "verseCount": 13
+  },
+  {
+    "day": 197,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 1,
+    "reference": "Romanos 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo, servo de Jesus Cristo, chamado para apóstolo, separado para o evangelho de Deus.",
+    "verseCount": 32
+  },
+  {
+    "day": 198,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 2,
+    "reference": "Romanos 2",
+    "highlightVerse": 1,
+    "highlightText": "Portanto, és inescusável quando julgas, ó homem, quem quer que sejas, porque te condenas a ti mesmo naquilo em que julgas a outro; pois tu, que julgas, fazes o mesmo.",
+    "verseCount": 29
+  },
+  {
+    "day": 199,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 80,
+    "reference": "Salmos 80",
+    "highlightVerse": 1,
+    "highlightText": "Tu, que és pastor de Israel, dá ouvidos; tu, que guias a José como a um rebanho; tu, que te assentas entre os querubins, resplandece.",
+    "verseCount": 19
+  },
+  {
+    "day": 200,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 3,
+    "reference": "Romanos 3",
+    "highlightVerse": 1,
+    "highlightText": "Qual é logo a vantagem do judeu? Ou qual a utilidade da circuncisão?",
+    "verseCount": 31
+  },
+  {
+    "day": 201,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 81,
+    "reference": "Salmos 81",
+    "highlightVerse": 1,
+    "highlightText": "Exultai a Deus, nossa fortaleza; jubilai ao Deus de Jacó.",
+    "verseCount": 16
+  },
+  {
+    "day": 202,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 4,
+    "reference": "Romanos 4",
+    "highlightVerse": 1,
+    "highlightText": "Que diremos, pois, ter alcançado Abraão, nosso pai segundo a carne?",
+    "verseCount": 25
+  },
+  {
+    "day": 203,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 5,
+    "reference": "Romanos 5",
+    "highlightVerse": 1,
+    "highlightText": "Tendo sido, pois, justificados pela fé, temos paz com Deus, por nosso Senhor Jesus Cristo;",
+    "verseCount": 21
+  },
+  {
+    "day": 204,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 82,
+    "reference": "Salmos 82",
+    "highlightVerse": 1,
+    "highlightText": "Deus está na congregação dos poderosos; julga no meio dos deuses.",
+    "verseCount": 8
+  },
+  {
+    "day": 205,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 6,
+    "reference": "Romanos 6",
+    "highlightVerse": 1,
+    "highlightText": "Que diremos pois? Permaneceremos no pecado, para que a graça abunde?",
+    "verseCount": 23
+  },
+  {
+    "day": 206,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 83,
+    "reference": "Salmos 83",
+    "highlightVerse": 1,
+    "highlightText": "Ó Deus, não estejas em silêncio; não te cales, nem te aquietes, ó Deus,",
+    "verseCount": 18
+  },
+  {
+    "day": 207,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 7,
+    "reference": "Romanos 7",
+    "highlightVerse": 1,
+    "highlightText": "Não sabeis vós, irmãos (pois que falo aos que sabem a lei), que a lei tem domínio sobre o homem por todo o tempo que vive?",
+    "verseCount": 25
+  },
+  {
+    "day": 208,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 8,
+    "reference": "Romanos 8",
+    "highlightVerse": 1,
+    "highlightText": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus, que não andam segundo a carne, mas segundo o Espírito.",
+    "verseCount": 39
+  },
+  {
+    "day": 209,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 84,
+    "reference": "Salmos 84",
+    "highlightVerse": 1,
+    "highlightText": "Quão amáveis são os teus tabernáculos, SENHOR dos Exércitos!",
+    "verseCount": 12
+  },
+  {
+    "day": 210,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 9,
+    "reference": "Romanos 9",
+    "highlightVerse": 1,
+    "highlightText": "Em Cristo digo a verdade, não minto (dando-me testemunho a minha consciência no Espírito Santo):",
+    "verseCount": 33
+  },
+  {
+    "day": 211,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 85,
+    "reference": "Salmos 85",
+    "highlightVerse": 1,
+    "highlightText": "Abençoaste, SENHOR, a tua terra; fizeste voltar o cativeiro de Jacó.",
+    "verseCount": 13
+  },
+  {
+    "day": 212,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 10,
+    "reference": "Romanos 10",
+    "highlightVerse": 1,
+    "highlightText": "Irmãos, o bom desejo do meu coração e a oração a Deus por Israel é para sua salvação.",
+    "verseCount": 21
+  },
+  {
+    "day": 213,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 86,
+    "reference": "Salmos 86",
+    "highlightVerse": 1,
+    "highlightText": "Inclina, SENHOR, os teus ouvidos, e ouve-me, porque estou necessitado e aflito.",
+    "verseCount": 17
+  },
+  {
+    "day": 214,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 11,
+    "reference": "Romanos 11",
+    "highlightVerse": 1,
+    "highlightText": "Digo, pois: Porventura rejeitou Deus o seu povo? De modo nenhum; porque também eu sou israelita, da descendência de Abraão, da tribo de Benjamim.",
+    "verseCount": 36
+  },
+  {
+    "day": 215,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 12,
+    "reference": "Romanos 12",
+    "highlightVerse": 1,
+    "highlightText": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional.",
+    "verseCount": 21
+  },
+  {
+    "day": 216,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 87,
+    "reference": "Salmos 87",
+    "highlightVerse": 1,
+    "highlightText": "O seu fundamento está nos montes santos.",
+    "verseCount": 7
+  },
+  {
+    "day": 217,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 13,
+    "reference": "Romanos 13",
+    "highlightVerse": 1,
+    "highlightText": "Toda a alma esteja sujeita às potestades superiores; porque não há potestade que não venha de Deus; e as potestades que há foram ordenadas por Deus.",
+    "verseCount": 14
+  },
+  {
+    "day": 218,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 88,
+    "reference": "Salmos 88",
+    "highlightVerse": 1,
+    "highlightText": "SENHOR Deus da minha salvação, diante de ti tenho clamado de dia e de noite.",
+    "verseCount": 18
+  },
+  {
+    "day": 219,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 14,
+    "reference": "Romanos 14",
+    "highlightVerse": 1,
+    "highlightText": "Ora, quanto ao que está enfermo na fé, recebei-o, não em contendas sobre dúvidas.",
+    "verseCount": 23
+  },
+  {
+    "day": 220,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 15,
+    "reference": "Romanos 15",
+    "highlightVerse": 1,
+    "highlightText": "Mas nós, que somos fortes, devemos suportar as fraquezas dos fracos, e não agradar a nós mesmos.",
+    "verseCount": 33
+  },
+  {
+    "day": 221,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 89,
+    "reference": "Salmos 89",
+    "highlightVerse": 1,
+    "highlightText": "As benignidades do SENHOR cantarei perpetuamente; com a minha boca manifestarei a tua fidelidade de geração em geração.",
+    "verseCount": 52
+  },
+  {
+    "day": 222,
+    "abbrev": "rm",
+    "book": "Romanos",
+    "chapter": 16,
+    "reference": "Romanos 16",
+    "highlightVerse": 1,
+    "highlightText": "Recomendo-vos, pois, Febe, nossa irmã, a qual serve na igreja que está em Cencréia,",
+    "verseCount": 27
+  },
+  {
+    "day": 223,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 90,
+    "reference": "Salmos 90",
+    "highlightVerse": 1,
+    "highlightText": "SENHOR, tu tens sido o nosso refúgio, de geração em geração.",
+    "verseCount": 17
+  },
+  {
+    "day": 224,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 1,
+    "reference": "1 Coríntios 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo (chamado apóstolo de Jesus Cristo, pela vontade de Deus), e o irmão Sóstenes,",
+    "verseCount": 31
+  },
+  {
+    "day": 225,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 2,
+    "reference": "1 Coríntios 2",
+    "highlightVerse": 1,
+    "highlightText": "E eu, irmãos, quando fui ter convosco, anunciando-vos o testemunho de Deus, não fui com sublimidade de palavras ou de sabedoria.",
+    "verseCount": 16
+  },
+  {
+    "day": 226,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 91,
+    "reference": "Salmos 91",
+    "highlightVerse": 1,
+    "highlightText": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.",
+    "verseCount": 16
+  },
+  {
+    "day": 227,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 3,
+    "reference": "1 Coríntios 3",
+    "highlightVerse": 1,
+    "highlightText": "E eu, irmãos, não vos pude falar como a espirituais, mas como a carnais, como a meninos em Cristo.",
+    "verseCount": 23
+  },
+  {
+    "day": 228,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 92,
+    "reference": "Salmos 92",
+    "highlightVerse": 1,
+    "highlightText": "Bom é louvar ao SENHOR, e cantar louvores ao teu nome, ó Altíssimo;",
+    "verseCount": 15
+  },
+  {
+    "day": 229,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 4,
+    "reference": "1 Coríntios 4",
+    "highlightVerse": 1,
+    "highlightText": "Que os homens nos considerem como ministros de Cristo, e despenseiros dos mistérios de Deus.",
+    "verseCount": 21
+  },
+  {
+    "day": 230,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 5,
+    "reference": "1 Coríntios 5",
+    "highlightVerse": 1,
+    "highlightText": "Geralmente se ouve que há entre vós fornicação, e fornicação tal, que nem ainda entre os gentios se nomeia, como é haver quem possua a mulher de seu pai.",
+    "verseCount": 13
+  },
+  {
+    "day": 231,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 93,
+    "reference": "Salmos 93",
+    "highlightVerse": 1,
+    "highlightText": "O SENHOR reina; está vestido de majestade. O SENHOR se revestiu e cingiu de poder; o mundo também está firmado, e não poderá vacilar.",
+    "verseCount": 5
+  },
+  {
+    "day": 232,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 6,
+    "reference": "1 Coríntios 6",
+    "highlightVerse": 1,
+    "highlightText": "Ousa algum de vós, tendo algum negócio contra outro, ir a juízo perante os injustos, e não perante os santos?",
+    "verseCount": 20
+  },
+  {
+    "day": 233,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 94,
+    "reference": "Salmos 94",
+    "highlightVerse": 1,
+    "highlightText": "Ó Senhor Deus, a quem a vingança pertence, ó Deus, a quem a vingança pertence, mostra-te resplandecente.",
+    "verseCount": 23
+  },
+  {
+    "day": 234,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 7,
+    "reference": "1 Coríntios 7",
+    "highlightVerse": 1,
+    "highlightText": "Ora, quanto às coisas que me escrevestes, bom seria que o homem não tocasse em mulher;",
+    "verseCount": 40
+  },
+  {
+    "day": 235,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 8,
+    "reference": "1 Coríntios 8",
+    "highlightVerse": 1,
+    "highlightText": "Ora, no tocante às coisas sacrificadas aos ídolos, sabemos que todos temos ciência. A ciência incha, mas o amor edifica.",
+    "verseCount": 13
+  },
+  {
+    "day": 236,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 95,
+    "reference": "Salmos 95",
+    "highlightVerse": 1,
+    "highlightText": "Vinde, cantemos ao SENHOR; jubilemos à rocha da nossa salvação.",
+    "verseCount": 11
+  },
+  {
+    "day": 237,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 9,
+    "reference": "1 Coríntios 9",
+    "highlightVerse": 1,
+    "highlightText": "Não sou eu apóstolo? Não sou livre? Não vi eu a Jesus Cristo Senhor nosso? Não sois vós a minha obra no Senhor?",
+    "verseCount": 27
+  },
+  {
+    "day": 238,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 96,
+    "reference": "Salmos 96",
+    "highlightVerse": 1,
+    "highlightText": "Cantai ao SENHOR um cântico novo, cantai ao SENHOR toda a terra.",
+    "verseCount": 13
+  },
+  {
+    "day": 239,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 10,
+    "reference": "1 Coríntios 10",
+    "highlightVerse": 1,
+    "highlightText": "Ora, irmãos, não quero que ignoreis que nossos pais estiveram todos debaixo da nuvem, e todos passaram pelo mar.",
+    "verseCount": 33
+  },
+  {
+    "day": 240,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 11,
+    "reference": "1 Coríntios 11",
+    "highlightVerse": 1,
+    "highlightText": "Sede meus imitadores, como também eu de Cristo.",
+    "verseCount": 34
+  },
+  {
+    "day": 241,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 97,
+    "reference": "Salmos 97",
+    "highlightVerse": 1,
+    "highlightText": "O SENHOR reina; regozije-se a terra; alegrem-se as muitas ilhas.",
+    "verseCount": 12
+  },
+  {
+    "day": 242,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 12,
+    "reference": "1 Coríntios 12",
+    "highlightVerse": 1,
+    "highlightText": "Acerca dos dons espirituais, não quero, irmãos, que sejais ignorantes.",
+    "verseCount": 31
+  },
+  {
+    "day": 243,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 98,
+    "reference": "Salmos 98",
+    "highlightVerse": 1,
+    "highlightText": "Cantai ao SENHOR um cântico novo, porque fez maravilhas; a sua destra e o seu braço santo lhe alcançaram a salvação.",
+    "verseCount": 9
+  },
+  {
+    "day": 244,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 13,
+    "reference": "1 Coríntios 13",
+    "highlightVerse": 1,
+    "highlightText": "Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o sino que tine.",
+    "verseCount": 13
+  },
+  {
+    "day": 245,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 14,
+    "reference": "1 Coríntios 14",
+    "highlightVerse": 1,
+    "highlightText": "Segui o amor, e procurai com zelo os dons espirituais, mas principalmente o de profetizar.",
+    "verseCount": 40
+  },
+  {
+    "day": 246,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 99,
+    "reference": "Salmos 99",
+    "highlightVerse": 1,
+    "highlightText": "O SENHOR reina; tremam os povos. Ele está assentado entre os querubins; comova-se a terra.",
+    "verseCount": 9
+  },
+  {
+    "day": 247,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 15,
+    "reference": "1 Coríntios 15",
+    "highlightVerse": 1,
+    "highlightText": "Também vos notifico, irmãos, o evangelho que já vos tenho anunciado; o qual também recebestes, e no qual também permaneceis.",
+    "verseCount": 58
+  },
+  {
+    "day": 248,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 100,
+    "reference": "Salmos 100",
+    "highlightVerse": 1,
+    "highlightText": "Celebrai com júbilo ao SENHOR, todas as terras.",
+    "verseCount": 5
+  },
+  {
+    "day": 249,
+    "abbrev": "1co",
+    "book": "1 Coríntios",
+    "chapter": 16,
+    "reference": "1 Coríntios 16",
+    "highlightVerse": 1,
+    "highlightText": "Ora, quanto à coleta que se faz para os santos, fazei vós também o mesmo que ordenei às igrejas da Galácia.",
+    "verseCount": 24
+  },
+  {
+    "day": 250,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 1,
+    "reference": "2 Coríntios 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo, à igreja de Deus, que está em Corinto, com todos os santos que estão em toda a Acaia.",
+    "verseCount": 24
+  },
+  {
+    "day": 251,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 101,
+    "reference": "Salmos 101",
+    "highlightVerse": 1,
+    "highlightText": "Cantarei a misericórdia e o juízo; a ti, SENHOR, cantarei.",
+    "verseCount": 8
+  },
+  {
+    "day": 252,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 2,
+    "reference": "2 Coríntios 2",
+    "highlightVerse": 1,
+    "highlightText": "Mas deliberei isto comigo mesmo: não ir mais ter convosco em tristeza.",
+    "verseCount": 17
+  },
+  {
+    "day": 253,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 102,
+    "reference": "Salmos 102",
+    "highlightVerse": 1,
+    "highlightText": "SENHOR, ouve a minha oração, e chegue a ti o meu clamor.",
+    "verseCount": 28
+  },
+  {
+    "day": 254,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 3,
+    "reference": "2 Coríntios 3",
+    "highlightVerse": 1,
+    "highlightText": "Porventura começamos outra vez a louvar-nos a nós mesmos? Ou necessitamos, como alguns, de cartas de recomendação para vós, ou de recomendação de vós?",
+    "verseCount": 18
+  },
+  {
+    "day": 255,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 4,
+    "reference": "2 Coríntios 4",
+    "highlightVerse": 1,
+    "highlightText": "Por isso, tendo este ministério, segundo a misericórdia que nos foi feita, não desfalecemos;",
+    "verseCount": 18
+  },
+  {
+    "day": 256,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 103,
+    "reference": "Salmos 103",
+    "highlightVerse": 1,
+    "highlightText": "Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome.",
+    "verseCount": 22
+  },
+  {
+    "day": 257,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 5,
+    "reference": "2 Coríntios 5",
+    "highlightVerse": 1,
+    "highlightText": "Porque sabemos que, se a nossa casa terrestre deste tabernáculo se desfizer, temos de Deus um edifício, uma casa não feita por mãos, eterna, nos céus.",
+    "verseCount": 21
+  },
+  {
+    "day": 258,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 104,
+    "reference": "Salmos 104",
+    "highlightVerse": 1,
+    "highlightText": "Bendize, ó minha alma, ao SENHOR! SENHOR Deus meu, tu és magnificentíssimo; estás vestido de glória e de majestade.",
+    "verseCount": 35
+  },
+  {
+    "day": 259,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 6,
+    "reference": "2 Coríntios 6",
+    "highlightVerse": 1,
+    "highlightText": "E nós, cooperando também com ele, vos exortamos a que não recebais a graça de Deus em vão",
+    "verseCount": 18
+  },
+  {
+    "day": 260,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 7,
+    "reference": "2 Coríntios 7",
+    "highlightVerse": 1,
+    "highlightText": "Ora, amados, pois que temos tais promessas, purifiquemo-nos de toda a imundícia da carne e do espírito, aperfeiçoando a santificação no temor de Deus.",
+    "verseCount": 16
+  },
+  {
+    "day": 261,
+    "abbrev": "sl",
+    "book": "Salmos",
+    "chapter": 105,
+    "reference": "Salmos 105",
+    "highlightVerse": 1,
+    "highlightText": "Louvai ao SENHOR, e invocai o seu nome; fazei conhecidas as suas obras entre os povos.",
+    "verseCount": 45
+  },
+  {
+    "day": 262,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 8,
+    "reference": "2 Coríntios 8",
+    "highlightVerse": 1,
+    "highlightText": "Também, irmãos, vos fazemos conhecer a graça de Deus dada às igrejas da macedônia;",
+    "verseCount": 24
+  },
+  {
+    "day": 263,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 9,
+    "reference": "2 Coríntios 9",
+    "highlightVerse": 1,
+    "highlightText": "Quanto à administração que se faz a favor dos santos, não necessito escrever-vos;",
+    "verseCount": 15
+  },
+  {
+    "day": 264,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 10,
+    "reference": "2 Coríntios 10",
+    "highlightVerse": 1,
+    "highlightText": "Além disto, eu, Paulo, vos rogo, pela mansidão e benignidade de Cristo, eu que, na verdade, quando presente entre vós, sou humilde, mas ausente, ousado para convosco;",
+    "verseCount": 18
+  },
+  {
+    "day": 265,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 11,
+    "reference": "2 Coríntios 11",
+    "highlightVerse": 1,
+    "highlightText": "Quisera eu me suportásseis um pouco na minha loucura! Suportai-me, porém, ainda.",
+    "verseCount": 33
+  },
+  {
+    "day": 266,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 12,
+    "reference": "2 Coríntios 12",
+    "highlightVerse": 1,
+    "highlightText": "Em verdade que não convém gloriar-me; mas passarei às visões e revelações do Senhor.",
+    "verseCount": 21
+  },
+  {
+    "day": 267,
+    "abbrev": "2co",
+    "book": "2 Coríntios",
+    "chapter": 13,
+    "reference": "2 Coríntios 13",
+    "highlightVerse": 1,
+    "highlightText": "É esta a terceira vez que vou ter convosco. Por boca de duas ou três testemunhas será confirmada toda a palavra.",
+    "verseCount": 14
+  },
+  {
+    "day": 268,
+    "abbrev": "gl",
+    "book": "Gálatas",
+    "chapter": 1,
+    "reference": "Gálatas 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo, apóstolo (não da parte dos homens, nem por homem algum, mas por Jesus Cristo, e por Deus Pai, que o ressuscitou dentre os mortos),",
+    "verseCount": 24
+  },
+  {
+    "day": 269,
+    "abbrev": "gl",
+    "book": "Gálatas",
+    "chapter": 2,
+    "reference": "Gálatas 2",
+    "highlightVerse": 1,
+    "highlightText": "Depois, passados catorze anos, subi outra vez a Jerusalém com Barnabé, levando também comigo Tito.",
+    "verseCount": 21
+  },
+  {
+    "day": 270,
+    "abbrev": "gl",
+    "book": "Gálatas",
+    "chapter": 3,
+    "reference": "Gálatas 3",
+    "highlightVerse": 1,
+    "highlightText": "Ó insensatos gálatas! quem vos fascinou para não obedecerdes à verdade, a vós, perante os olhos de quem Jesus Cristo foi evidenciado, crucificado, entre vós?",
+    "verseCount": 29
+  },
+  {
+    "day": 271,
+    "abbrev": "gl",
+    "book": "Gálatas",
+    "chapter": 4,
+    "reference": "Gálatas 4",
+    "highlightVerse": 1,
+    "highlightText": "Digo, pois, que todo o tempo que o herdeiro é menino em nada difere do servo, ainda que seja senhor de tudo;",
+    "verseCount": 31
+  },
+  {
+    "day": 272,
+    "abbrev": "gl",
+    "book": "Gálatas",
+    "chapter": 5,
+    "reference": "Gálatas 5",
+    "highlightVerse": 1,
+    "highlightText": "Estai, pois, firmes na liberdade com que Cristo nos libertou, e não torneis a colocar-vos debaixo do jugo da servidão.",
+    "verseCount": 26
+  },
+  {
+    "day": 273,
+    "abbrev": "gl",
+    "book": "Gálatas",
+    "chapter": 6,
+    "reference": "Gálatas 6",
+    "highlightVerse": 1,
+    "highlightText": "Irmãos, se algum homem chegar a ser surpreendido nalguma ofensa, vós, que sois espirituais, encaminhai o tal com espírito de mansidão; olhando por ti mesmo, para que não sejas também tentado.",
+    "verseCount": 18
+  },
+  {
+    "day": 274,
+    "abbrev": "ef",
+    "book": "Efésios",
+    "chapter": 1,
+    "reference": "Efésios 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus:",
+    "verseCount": 23
+  },
+  {
+    "day": 275,
+    "abbrev": "ef",
+    "book": "Efésios",
+    "chapter": 2,
+    "reference": "Efésios 2",
+    "highlightVerse": 1,
+    "highlightText": "E vos vivificou, estando vós mortos em ofensas e pecados,",
+    "verseCount": 22
+  },
+  {
+    "day": 276,
+    "abbrev": "ef",
+    "book": "Efésios",
+    "chapter": 3,
+    "reference": "Efésios 3",
+    "highlightVerse": 1,
+    "highlightText": "Por esta causa eu, Paulo, sou o prisioneiro de Jesus Cristo por vós, os gentios;",
+    "verseCount": 21
+  },
+  {
+    "day": 277,
+    "abbrev": "ef",
+    "book": "Efésios",
+    "chapter": 4,
+    "reference": "Efésios 4",
+    "highlightVerse": 1,
+    "highlightText": "Rogo-vos, pois, eu, o preso do Senhor, que andeis como é digno da vocação com que fostes chamados,",
+    "verseCount": 32
+  },
+  {
+    "day": 278,
+    "abbrev": "ef",
+    "book": "Efésios",
+    "chapter": 5,
+    "reference": "Efésios 5",
+    "highlightVerse": 1,
+    "highlightText": "Sede, pois, imitadores de Deus, como filhos amados;",
+    "verseCount": 33
+  },
+  {
+    "day": 279,
+    "abbrev": "ef",
+    "book": "Efésios",
+    "chapter": 6,
+    "reference": "Efésios 6",
+    "highlightVerse": 1,
+    "highlightText": "Vós, filhos, sede obedientes a vossos pais no Senhor, porque isto é justo.",
+    "verseCount": 24
+  },
+  {
+    "day": 280,
+    "abbrev": "fp",
+    "book": "Filipenses",
+    "chapter": 1,
+    "reference": "Filipenses 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo e Timóteo, servos de Jesus Cristo, a todos os santos em Cristo Jesus, que estão em Filipos, com os bispos e diáconos:",
+    "verseCount": 30
+  },
+  {
+    "day": 281,
+    "abbrev": "fp",
+    "book": "Filipenses",
+    "chapter": 2,
+    "reference": "Filipenses 2",
+    "highlightVerse": 1,
+    "highlightText": "Portanto, se há algum conforto em Cristo, se alguma consolação de amor, se alguma comunhão no Espírito, se alguns entranháveis afetos e compaixões,",
+    "verseCount": 30
+  },
+  {
+    "day": 282,
+    "abbrev": "fp",
+    "book": "Filipenses",
+    "chapter": 3,
+    "reference": "Filipenses 3",
+    "highlightVerse": 1,
+    "highlightText": "Resta, irmãos meus, que vos regozijeis no Senhor. Não me aborreço de escrever-vos as mesmas coisas, e é segurança para vós.",
+    "verseCount": 21
+  },
+  {
+    "day": 283,
+    "abbrev": "fp",
+    "book": "Filipenses",
+    "chapter": 4,
+    "reference": "Filipenses 4",
+    "highlightVerse": 1,
+    "highlightText": "Portanto, meus amados e mui queridos irmãos, minha alegria e coroa, estai assim firmes no Senhor, amados.",
+    "verseCount": 23
+  },
+  {
+    "day": 284,
+    "abbrev": "cl",
+    "book": "Colossenses",
+    "chapter": 1,
+    "reference": "Colossenses 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo,",
+    "verseCount": 29
+  },
+  {
+    "day": 285,
+    "abbrev": "cl",
+    "book": "Colossenses",
+    "chapter": 2,
+    "reference": "Colossenses 2",
+    "highlightVerse": 1,
+    "highlightText": "Porque quero que saibais quão grande combate tenho por vós, e pelos que estão em Laodicéia, e por quantos não viram o meu rosto em carne;",
+    "verseCount": 23
+  },
+  {
+    "day": 286,
+    "abbrev": "cl",
+    "book": "Colossenses",
+    "chapter": 3,
+    "reference": "Colossenses 3",
+    "highlightVerse": 1,
+    "highlightText": "Portanto, se já ressuscitastes com Cristo, buscai as coisas que são de cima, onde Cristo está assentado à destra de Deus.",
+    "verseCount": 25
+  },
+  {
+    "day": 287,
+    "abbrev": "cl",
+    "book": "Colossenses",
+    "chapter": 4,
+    "reference": "Colossenses 4",
+    "highlightVerse": 1,
+    "highlightText": "Vós, senhores, fazei o que for de justiça e eqüidade a vossos servos, sabendo que também tendes um Senhor nos céus.",
+    "verseCount": 18
+  },
+  {
+    "day": 288,
+    "abbrev": "1ts",
+    "book": "1 Tessalonicenses",
+    "chapter": 1,
+    "reference": "1 Tessalonicenses 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses em Deus, o Pai, e no Senhor Jesus Cristo: Graça e paz tenhais de Deus nosso Pai e do Senhor Jesus Cristo.",
+    "verseCount": 10
+  },
+  {
+    "day": 289,
+    "abbrev": "1ts",
+    "book": "1 Tessalonicenses",
+    "chapter": 2,
+    "reference": "1 Tessalonicenses 2",
+    "highlightVerse": 1,
+    "highlightText": "Porque vós mesmos, irmãos, bem sabeis que a nossa entrada para convosco não foi vã;",
+    "verseCount": 20
+  },
+  {
+    "day": 290,
+    "abbrev": "1ts",
+    "book": "1 Tessalonicenses",
+    "chapter": 3,
+    "reference": "1 Tessalonicenses 3",
+    "highlightVerse": 1,
+    "highlightText": "Por isso, não podendo esperar mais, achamos por bem ficar sozinhos em Atenas;",
+    "verseCount": 13
+  },
+  {
+    "day": 291,
+    "abbrev": "1ts",
+    "book": "1 Tessalonicenses",
+    "chapter": 4,
+    "reference": "1 Tessalonicenses 4",
+    "highlightVerse": 1,
+    "highlightText": "Finalmente, irmãos, vos rogamos e exortamos no Senhor Jesus, que assim como recebestes de nós, de que maneira convém andar e agradar a Deus, assim andai, para que possais progredir cada vez mais.",
+    "verseCount": 18
+  },
+  {
+    "day": 292,
+    "abbrev": "1ts",
+    "book": "1 Tessalonicenses",
+    "chapter": 5,
+    "reference": "1 Tessalonicenses 5",
+    "highlightVerse": 1,
+    "highlightText": "Mas, irmãos, acerca dos tempos e das estações, não necessitais de que se vos escreva;",
+    "verseCount": 28
+  },
+  {
+    "day": 293,
+    "abbrev": "2ts",
+    "book": "2 Tessalonicenses",
+    "chapter": 1,
+    "reference": "2 Tessalonicenses 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses, em Deus nosso Pai, e no Senhor Jesus Cristo:",
+    "verseCount": 12
+  },
+  {
+    "day": 294,
+    "abbrev": "2ts",
+    "book": "2 Tessalonicenses",
+    "chapter": 2,
+    "reference": "2 Tessalonicenses 2",
+    "highlightVerse": 1,
+    "highlightText": "Ora, irmãos, rogamo-vos, pela vinda de nosso Senhor Jesus Cristo, e pela nossa reunião com ele,",
+    "verseCount": 17
+  },
+  {
+    "day": 295,
+    "abbrev": "2ts",
+    "book": "2 Tessalonicenses",
+    "chapter": 3,
+    "reference": "2 Tessalonicenses 3",
+    "highlightVerse": 1,
+    "highlightText": "No demais, irmãos, rogai por nós, para que a palavra do Senhor tenha livre curso e seja glorificada, como também o é entre vós;",
+    "verseCount": 18
+  },
+  {
+    "day": 296,
+    "abbrev": "1tm",
+    "book": "1 Timóteo",
+    "chapter": 1,
+    "reference": "1 Timóteo 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo, apóstolo de Jesus Cristo, segundo o mandado de Deus, nosso Salvador, e do Senhor Jesus Cristo, esperança nossa,",
+    "verseCount": 20
+  },
+  {
+    "day": 297,
+    "abbrev": "1tm",
+    "book": "1 Timóteo",
+    "chapter": 2,
+    "reference": "1 Timóteo 2",
+    "highlightVerse": 1,
+    "highlightText": "Admoesto-te, pois, antes de tudo, que se façam deprecações, orações, intercessões, e ações de graças, por todos os homens;",
+    "verseCount": 15
+  },
+  {
+    "day": 298,
+    "abbrev": "1tm",
+    "book": "1 Timóteo",
+    "chapter": 3,
+    "reference": "1 Timóteo 3",
+    "highlightVerse": 1,
+    "highlightText": "Esta é uma palavra fiel: se alguém deseja o episcopado, excelente obra deseja.",
+    "verseCount": 16
+  },
+  {
+    "day": 299,
+    "abbrev": "1tm",
+    "book": "1 Timóteo",
+    "chapter": 4,
+    "reference": "1 Timóteo 4",
+    "highlightVerse": 1,
+    "highlightText": "Mas o Espírito expressamente diz que nos últimos tempos apostatarão alguns da fé, dando ouvidos a espíritos enganadores, e a doutrinas de demônios;",
+    "verseCount": 16
+  },
+  {
+    "day": 300,
+    "abbrev": "1tm",
+    "book": "1 Timóteo",
+    "chapter": 5,
+    "reference": "1 Timóteo 5",
+    "highlightVerse": 1,
+    "highlightText": "NÃO repreendas asperamente o ancião, mas admoesta-o como a pai; aos moços como a irmãos;",
+    "verseCount": 25
+  },
+  {
+    "day": 301,
+    "abbrev": "1tm",
+    "book": "1 Timóteo",
+    "chapter": 6,
+    "reference": "1 Timóteo 6",
+    "highlightVerse": 1,
+    "highlightText": "Todos os servos que estão debaixo do jugo estimem a seus senhores por dignos de toda a honra, para que o nome de Deus e a doutrina não sejam blasfemados.",
+    "verseCount": 21
+  },
+  {
+    "day": 302,
+    "abbrev": "2tm",
+    "book": "2 Timóteo",
+    "chapter": 1,
+    "reference": "2 Timóteo 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,",
+    "verseCount": 18
+  },
+  {
+    "day": 303,
+    "abbrev": "2tm",
+    "book": "2 Timóteo",
+    "chapter": 2,
+    "reference": "2 Timóteo 2",
+    "highlightVerse": 1,
+    "highlightText": "Tu, pois, meu filho, fortifica-te na graça que há em Cristo Jesus.",
+    "verseCount": 26
+  },
+  {
+    "day": 304,
+    "abbrev": "2tm",
+    "book": "2 Timóteo",
+    "chapter": 3,
+    "reference": "2 Timóteo 3",
+    "highlightVerse": 1,
+    "highlightText": "Sabe, porém, isto: que nos últimos dias sobrevirão tempos trabalhosos.",
+    "verseCount": 17
+  },
+  {
+    "day": 305,
+    "abbrev": "2tm",
+    "book": "2 Timóteo",
+    "chapter": 4,
+    "reference": "2 Timóteo 4",
+    "highlightVerse": 1,
+    "highlightText": "Conjuro-te, pois, diante de Deus, e do Senhor Jesus Cristo, que há de julgar os vivos e os mortos, na sua vinda e no seu reino,",
+    "verseCount": 22
+  },
+  {
+    "day": 306,
+    "abbrev": "tt",
+    "book": "Tito",
+    "chapter": 1,
+    "reference": "Tito 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo, servo de Deus, e apóstolo de Jesus Cristo, segundo a fé dos eleitos de Deus, e o conhecimento da verdade, que é segundo a piedade,",
+    "verseCount": 16
+  },
+  {
+    "day": 307,
+    "abbrev": "tt",
+    "book": "Tito",
+    "chapter": 2,
+    "reference": "Tito 2",
+    "highlightVerse": 1,
+    "highlightText": "Tu, porém, fala o que convém à sã doutrina.",
+    "verseCount": 15
+  },
+  {
+    "day": 308,
+    "abbrev": "tt",
+    "book": "Tito",
+    "chapter": 3,
+    "reference": "Tito 3",
+    "highlightVerse": 1,
+    "highlightText": "Admoesta-os a que se sujeitem aos principados e potestades, que lhes obedeçam, e estejam preparados para toda a boa obra;",
+    "verseCount": 15
+  },
+  {
+    "day": 309,
+    "abbrev": "fm",
+    "book": "Filemom",
+    "chapter": 1,
+    "reference": "Filemom 1",
+    "highlightVerse": 1,
+    "highlightText": "Paulo, prisioneiro de Jesus Cristo, e o irmão Timóteo, ao amado Filemom, nosso cooperador,",
+    "verseCount": 25
+  },
+  {
+    "day": 310,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 1,
+    "reference": "Hebreus 1",
+    "highlightVerse": 1,
+    "highlightText": "Havendo Deus antigamente falado muitas vezes, e de muitas maneiras, aos pais, pelos profetas, a nós falou-nos nestes últimos dias pelo Filho,",
+    "verseCount": 14
+  },
+  {
+    "day": 311,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 2,
+    "reference": "Hebreus 2",
+    "highlightVerse": 1,
+    "highlightText": "Portanto, convém-nos atentar com mais diligência para as coisas que já temos ouvido, para que em tempo algum nos desviemos delas.",
+    "verseCount": 18
+  },
+  {
+    "day": 312,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 3,
+    "reference": "Hebreus 3",
+    "highlightVerse": 1,
+    "highlightText": "Por isso, irmãos santos, participantes da vocação celestial, considerai a Jesus Cristo, apóstolo e sumo sacerdote da nossa confissão,",
+    "verseCount": 19
+  },
+  {
+    "day": 313,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 4,
+    "reference": "Hebreus 4",
+    "highlightVerse": 1,
+    "highlightText": "Temamos, pois, que, porventura, deixada a promessa de entrar no seu repouso, pareça que algum de vós fica para trás.",
+    "verseCount": 16
+  },
+  {
+    "day": 314,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 5,
+    "reference": "Hebreus 5",
+    "highlightVerse": 1,
+    "highlightText": "Porque todo o sumo sacerdote, tomado dentre os homens, é constituído a favor dos homens nas coisas concernentes a Deus, para que ofereça dons e sacrifícios pelos pecados;",
+    "verseCount": 14
+  },
+  {
+    "day": 315,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 6,
+    "reference": "Hebreus 6",
+    "highlightVerse": 1,
+    "highlightText": "Por isso, deixando os rudimentos da doutrina de Cristo, prossigamos até à perfeição, não lançando de novo o fundamento do arrependimento de obras mortas e de fé em Deus,",
+    "verseCount": 20
+  },
+  {
+    "day": 316,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 7,
+    "reference": "Hebreus 7",
+    "highlightVerse": 1,
+    "highlightText": "Porque este Melquisedeque, que era rei de Salém, sacerdote do Deus Altíssimo, e que saiu ao encontro de Abraão quando ele regressava da matança dos reis, e o abençoou;",
+    "verseCount": 28
+  },
+  {
+    "day": 317,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 8,
+    "reference": "Hebreus 8",
+    "highlightVerse": 1,
+    "highlightText": "Ora, a suma do que temos dito é que temos um sumo sacerdote tal, que está assentado nos céus à destra do trono da majestade,",
+    "verseCount": 13
+  },
+  {
+    "day": 318,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 9,
+    "reference": "Hebreus 9",
+    "highlightVerse": 1,
+    "highlightText": "Ora, também a primeira tinha ordenanças de culto divino, e um santuário terrestre.",
+    "verseCount": 28
+  },
+  {
+    "day": 319,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 10,
+    "reference": "Hebreus 10",
+    "highlightVerse": 1,
+    "highlightText": "Porque tendo a lei a sombra dos bens futuros, e não a imagem exata das coisas, nunca, pelos mesmos sacrifícios que continuamente se oferecem cada ano, pode aperfeiçoar os que a eles se chegam.",
+    "verseCount": 39
+  },
+  {
+    "day": 320,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 11,
+    "reference": "Hebreus 11",
+    "highlightVerse": 1,
+    "highlightText": "Ora, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que se não vêem.",
+    "verseCount": 40
+  },
+  {
+    "day": 321,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 12,
+    "reference": "Hebreus 12",
+    "highlightVerse": 1,
+    "highlightText": "Portanto nós também, pois que estamos rodeados de uma tão grande nuvem de testemunhas, deixemos todo o embaraço, e o pecado que tão de perto nos rodeia, e corramos com paciência a carreira que nos está proposta,",
+    "verseCount": 29
+  },
+  {
+    "day": 322,
+    "abbrev": "hb",
+    "book": "Hebreus",
+    "chapter": 13,
+    "reference": "Hebreus 13",
+    "highlightVerse": 1,
+    "highlightText": "Permaneça o amor fraternal.",
+    "verseCount": 25
+  },
+  {
+    "day": 323,
+    "abbrev": "tg",
+    "book": "Tiago",
+    "chapter": 1,
+    "reference": "Tiago 1",
+    "highlightVerse": 1,
+    "highlightText": "Tiago, servo de Deus, e do Senhor Jesus Cristo, às doze tribos que andam dispersas, saúde.",
+    "verseCount": 27
+  },
+  {
+    "day": 324,
+    "abbrev": "tg",
+    "book": "Tiago",
+    "chapter": 2,
+    "reference": "Tiago 2",
+    "highlightVerse": 1,
+    "highlightText": "Meus irmãos, não tenhais a fé de nosso Senhor Jesus Cristo, Senhor da glória, em acepção de pessoas.",
+    "verseCount": 26
+  },
+  {
+    "day": 325,
+    "abbrev": "tg",
+    "book": "Tiago",
+    "chapter": 3,
+    "reference": "Tiago 3",
+    "highlightVerse": 1,
+    "highlightText": "Meus irmãos, muitos de vós não sejam mestres, sabendo que receberemos mais duro juízo.",
+    "verseCount": 18
+  },
+  {
+    "day": 326,
+    "abbrev": "tg",
+    "book": "Tiago",
+    "chapter": 4,
+    "reference": "Tiago 4",
+    "highlightVerse": 1,
+    "highlightText": "De onde vêm as guerras e pelejas entre vós? Porventura não vêm disto, a saber, dos vossos deleites, que nos vossos membros guerreiam?",
+    "verseCount": 17
+  },
+  {
+    "day": 327,
+    "abbrev": "tg",
+    "book": "Tiago",
+    "chapter": 5,
+    "reference": "Tiago 5",
+    "highlightVerse": 1,
+    "highlightText": "Eia, pois, agora vós, ricos, chorai e pranteai, por vossas misérias, que sobre vós hão de vir.",
+    "verseCount": 20
+  },
+  {
+    "day": 328,
+    "abbrev": "1pe",
+    "book": "1 Pedro",
+    "chapter": 1,
+    "reference": "1 Pedro 1",
+    "highlightVerse": 1,
+    "highlightText": "Pedro, apóstolo de Jesus Cristo, aos estrangeiros dispersos no Ponto, Galácia, Capadócia, Ásia e Bitínia;",
+    "verseCount": 25
+  },
+  {
+    "day": 329,
+    "abbrev": "1pe",
+    "book": "1 Pedro",
+    "chapter": 2,
+    "reference": "1 Pedro 2",
+    "highlightVerse": 1,
+    "highlightText": "Deixando, pois, toda a malícia, e todo o engano, e fingimentos, e invejas, e todas as murmurações,",
+    "verseCount": 25
+  },
+  {
+    "day": 330,
+    "abbrev": "1pe",
+    "book": "1 Pedro",
+    "chapter": 3,
+    "reference": "1 Pedro 3",
+    "highlightVerse": 1,
+    "highlightText": "Semelhantemente, vós, mulheres, sede sujeitas aos vossos próprios maridos; para que também, se alguns não obedecem à palavra, pelo porte de suas mulheres sejam ganhos sem palavra;",
+    "verseCount": 22
+  },
+  {
+    "day": 331,
+    "abbrev": "1pe",
+    "book": "1 Pedro",
+    "chapter": 4,
+    "reference": "1 Pedro 4",
+    "highlightVerse": 1,
+    "highlightText": "Ora, pois, já que Cristo padeceu por nós na carne, armai-vos também vós com este mesmo pensamento, que aquele que padeceu na carne já cessou do pecado;",
+    "verseCount": 19
+  },
+  {
+    "day": 332,
+    "abbrev": "1pe",
+    "book": "1 Pedro",
+    "chapter": 5,
+    "reference": "1 Pedro 5",
+    "highlightVerse": 1,
+    "highlightText": "Aos presbíteros, que estão entre vós, admoesto eu, que sou também presbítero com eles, e testemunha das aflições de Cristo, e participante da glória que se há de revelar:",
+    "verseCount": 14
+  },
+  {
+    "day": 333,
+    "abbrev": "2pe",
+    "book": "2 Pedro",
+    "chapter": 1,
+    "reference": "2 Pedro 1",
+    "highlightVerse": 1,
+    "highlightText": "Simão Pedro, servo e apóstolo de Jesus Cristo, aos que conosco alcançaram fé igualmente preciosa pela justiça do nosso Deus e Salvador Jesus Cristo:",
+    "verseCount": 21
+  },
+  {
+    "day": 334,
+    "abbrev": "2pe",
+    "book": "2 Pedro",
+    "chapter": 2,
+    "reference": "2 Pedro 2",
+    "highlightVerse": 1,
+    "highlightText": "E também houve entre o povo falsos profetas, como entre vós haverá também falsos doutores, que introduzirão encobertamente heresias de perdição, e negarão o Senhor que os resgatou, trazendo sobre si mesmos repentina perdição.",
+    "verseCount": 22
+  },
+  {
+    "day": 335,
+    "abbrev": "2pe",
+    "book": "2 Pedro",
+    "chapter": 3,
+    "reference": "2 Pedro 3",
+    "highlightVerse": 1,
+    "highlightText": "Amados, escrevo-vos agora esta segunda carta, em ambas as quais desperto com exortação o vosso ânimo sincero;",
+    "verseCount": 18
+  },
+  {
+    "day": 336,
+    "abbrev": "1jo",
+    "book": "1 João",
+    "chapter": 1,
+    "reference": "1 João 1",
+    "highlightVerse": 1,
+    "highlightText": "O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que temos contemplado, e as nossas mãos tocaram da Palavra da vida",
+    "verseCount": 10
+  },
+  {
+    "day": 337,
+    "abbrev": "1jo",
+    "book": "1 João",
+    "chapter": 2,
+    "reference": "1 João 2",
+    "highlightVerse": 1,
+    "highlightText": "Meus filhinhos, estas coisas vos escrevo, para que não pequeis; e, se alguém pecar, temos um Advogado para com o Pai, Jesus Cristo, o justo.",
+    "verseCount": 29
+  },
+  {
+    "day": 338,
+    "abbrev": "1jo",
+    "book": "1 João",
+    "chapter": 3,
+    "reference": "1 João 3",
+    "highlightVerse": 1,
+    "highlightText": "Vede quão grande amor nos tem concedido o Pai, que fôssemos chamados filhos de Deus. Por isso o mundo não nos conhece; porque não o conhece a ele.",
+    "verseCount": 24
+  },
+  {
+    "day": 339,
+    "abbrev": "1jo",
+    "book": "1 João",
+    "chapter": 4,
+    "reference": "1 João 4",
+    "highlightVerse": 1,
+    "highlightText": "Amados, não creiais a todo o espírito, mas provai se os espíritos são de Deus, porque já muitos falsos profetas se têm levantado no mundo.",
+    "verseCount": 21
+  },
+  {
+    "day": 340,
+    "abbrev": "1jo",
+    "book": "1 João",
+    "chapter": 5,
+    "reference": "1 João 5",
+    "highlightVerse": 1,
+    "highlightText": "Todo aquele que crê que Jesus é o Cristo, é nascido de Deus; e todo aquele que ama ao que o gerou também ama ao que dele é nascido.",
+    "verseCount": 21
+  },
+  {
+    "day": 341,
+    "abbrev": "2jo",
+    "book": "2 João",
+    "chapter": 1,
+    "reference": "2 João 1",
+    "highlightVerse": 1,
+    "highlightText": "O ancião à senhora eleita, e a seus filhos, aos quais amo na verdade, e não somente eu, mas também todos os que têm conhecido a verdade,",
+    "verseCount": 13
+  },
+  {
+    "day": 342,
+    "abbrev": "3jo",
+    "book": "3 João",
+    "chapter": 1,
+    "reference": "3 João 1",
+    "highlightVerse": 1,
+    "highlightText": "O presbítero ao amado Gaio, a quem em verdade eu amo.",
+    "verseCount": 15
+  },
+  {
+    "day": 343,
+    "abbrev": "jd",
+    "book": "Judas",
+    "chapter": 1,
+    "reference": "Judas 1",
+    "highlightVerse": 1,
+    "highlightText": "Judas, servo de Jesus Cristo, e irmão de Tiago, aos chamados, santificados em Deus Pai, e conservados por Jesus Cristo:",
+    "verseCount": 25
+  },
+  {
+    "day": 344,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 1,
+    "reference": "Apocalipse 1",
+    "highlightVerse": 1,
+    "highlightText": "Revelação de Jesus Cristo, a qual Deus lhe deu, para mostrar aos seus servos as coisas que brevemente devem acontecer; e pelo seu anjo as enviou, e as notificou a João seu servo;",
+    "verseCount": 20
+  },
+  {
+    "day": 345,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 2,
+    "reference": "Apocalipse 2",
+    "highlightVerse": 1,
+    "highlightText": "Escreve ao anjo da igreja de Éfeso: Isto diz aquele que tem na sua destra as sete estrelas, que anda no meio dos sete castiçais de ouro:",
+    "verseCount": 29
+  },
+  {
+    "day": 346,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 3,
+    "reference": "Apocalipse 3",
+    "highlightVerse": 1,
+    "highlightText": "E ao anjo da igreja que está em Sardes escreve: Isto diz o que tem os sete espíritos de Deus, e as sete estrelas: Conheço as tuas obras, que tens nome de que vives, e estás morto.",
+    "verseCount": 22
+  },
+  {
+    "day": 347,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 4,
+    "reference": "Apocalipse 4",
+    "highlightVerse": 1,
+    "highlightText": "Depois destas coisas, olhei, e eis que estava uma porta aberta no céu; e a primeira voz, que como de trombeta ouvira falar comigo, disse: Sobe aqui, e mostrar-te-ei as coisas que depois destas devem acontecer.",
+    "verseCount": 11
+  },
+  {
+    "day": 348,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 5,
+    "reference": "Apocalipse 5",
+    "highlightVerse": 1,
+    "highlightText": "E vi na destra do que estava assentado sobre o trono um livro escrito por dentro e por fora, selado com sete selos.",
+    "verseCount": 14
+  },
+  {
+    "day": 349,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 6,
+    "reference": "Apocalipse 6",
+    "highlightVerse": 1,
+    "highlightText": "E, havendo o Cordeiro aberto um dos selos, olhei, e ouvi um dos quatro animais, que dizia como em voz de trovão: Vem, e vê.",
+    "verseCount": 17
+  },
+  {
+    "day": 350,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 7,
+    "reference": "Apocalipse 7",
+    "highlightVerse": 1,
+    "highlightText": "E depois destas coisas vi quatro anjos que estavam sobre os quatro cantos da terra, retendo os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem contra árvore alguma.",
+    "verseCount": 17
+  },
+  {
+    "day": 351,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 8,
+    "reference": "Apocalipse 8",
+    "highlightVerse": 1,
+    "highlightText": "E, havendo aberto o sétimo selo, fez-se silêncio no céu quase por meia hora.",
+    "verseCount": 13
+  },
+  {
+    "day": 352,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 9,
+    "reference": "Apocalipse 9",
+    "highlightVerse": 1,
+    "highlightText": "E o quinto anjo tocou a sua trombeta, e vi uma estrela que do céu caiu na terra; e foi-lhe dada a chave do poço do abismo.",
+    "verseCount": 21
+  },
+  {
+    "day": 353,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 10,
+    "reference": "Apocalipse 10",
+    "highlightVerse": 1,
+    "highlightText": "E vi outro anjo forte, que descia do céu, vestido de uma nuvem; e por cima da sua cabeça estava o arco celeste, e o seu rosto era como o sol, e os seus pés como colunas de fogo;",
+    "verseCount": 11
+  },
+  {
+    "day": 354,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 11,
+    "reference": "Apocalipse 11",
+    "highlightVerse": 1,
+    "highlightText": "E foi-me dada uma cana semelhante a uma vara; e chegou o anjo, e disse: Levanta-te, e mede o templo de Deus, e o altar, e os que nele adoram.",
+    "verseCount": 19
+  },
+  {
+    "day": 355,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 12,
+    "reference": "Apocalipse 12",
+    "highlightVerse": 1,
+    "highlightText": "E viu-se um grande sinal no céu: uma mulher vestida do sol, tendo a lua debaixo dos seus pés, e uma coroa de doze estrelas sobre a sua cabeça.",
+    "verseCount": 17
+  },
+  {
+    "day": 356,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 13,
+    "reference": "Apocalipse 13",
+    "highlightVerse": 1,
+    "highlightText": "E eu pus-me sobre a areia do mar, e vi subir do mar uma besta que tinha sete cabeças e dez chifres, e sobre os seus chifres dez diademas, e sobre as suas cabeças um nome de blasfêmia.",
+    "verseCount": 18
+  },
+  {
+    "day": 357,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 14,
+    "reference": "Apocalipse 14",
+    "highlightVerse": 1,
+    "highlightText": "E olhei, e eis que estava o Cordeiro sobre o monte Sião, e com ele cento e quarenta e quatro mil, que em suas testas tinham escrito o nome de seu Pai.",
+    "verseCount": 20
+  },
+  {
+    "day": 358,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 15,
+    "reference": "Apocalipse 15",
+    "highlightVerse": 1,
+    "highlightText": "E vi outro grande e admirável sinal no céu: sete anjos, que tinham as sete últimas pragas; porque nelas é consumada a ira de Deus.",
+    "verseCount": 8
+  },
+  {
+    "day": 359,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 16,
+    "reference": "Apocalipse 16",
+    "highlightVerse": 1,
+    "highlightText": "E ouvi, vinda do templo, uma grande voz, que dizia aos sete anjos: Ide, e derramaisobre a terra as sete taças da ira de Deus.",
+    "verseCount": 21
+  },
+  {
+    "day": 360,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 17,
+    "reference": "Apocalipse 17",
+    "highlightVerse": 1,
+    "highlightText": "E veio um dos sete anjos que tinham as sete taças, e falou comigo, dizendo-me: Vem, mostrar-te-ei a condenação da grande prostituta que está assentada sobre muitas águas;",
+    "verseCount": 18
+  },
+  {
+    "day": 361,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 18,
+    "reference": "Apocalipse 18",
+    "highlightVerse": 1,
+    "highlightText": "E depois destas coisas vi descer do céu outro anjo, que tinha grande poder, e a terra foi iluminada com a sua glória.",
+    "verseCount": 24
+  },
+  {
+    "day": 362,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 19,
+    "reference": "Apocalipse 19",
+    "highlightVerse": 1,
+    "highlightText": "E, depois destas coisas ouvi no céu uma grande voz de uma grande multidão, que dizia: Aleluia! A salvação, e a glória, e a honra, e o poder pertencem ao Senhor nosso Deus;",
+    "verseCount": 21
+  },
+  {
+    "day": 363,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 20,
+    "reference": "Apocalipse 20",
+    "highlightVerse": 1,
+    "highlightText": "E vi descer do céu um anjo, que tinha a chave do abismo, e uma grande cadeia na sua mão.",
+    "verseCount": 15
+  },
+  {
+    "day": 364,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 21,
+    "reference": "Apocalipse 21",
+    "highlightVerse": 1,
+    "highlightText": "E vi um novo céu, e uma nova terra. Porque já o primeiro céu e a primeira terra passaram, e o mar já não existe.",
+    "verseCount": 27
+  },
+  {
+    "day": 365,
+    "abbrev": "ap",
+    "book": "Apocalipse",
+    "chapter": 22,
+    "reference": "Apocalipse 22",
+    "highlightVerse": 1,
+    "highlightText": "E mostrou-me o rio puro da água da vida, claro como cristal, que procedia do trono de Deus e do Cordeiro.",
+    "verseCount": 21
+  }
+]

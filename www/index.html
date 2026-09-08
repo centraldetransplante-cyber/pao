@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>Devocional</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">✦</span>
+        <span class="brand-text">Devocional</span>
+      </div>
+      <button id="theme-toggle" class="icon-btn" aria-label="Alternar tema">🌙</button>
+    </header>
+
+    <main id="view-home" class="view">
+      <p class="greeting" id="greeting">Bom dia, Rafael</p>
+      <p class="date-label" id="date-label"></p>
+
+      <section class="card verse-card">
+        <p class="reference" id="reference">—</p>
+        <p class="verse-text" id="verse-text">Carregando...</p>
+        <div class="lang-toggle" role="group" aria-label="Estilo de linguagem">
+          <button class="lang-btn active" data-lang="original">Almeida</button>
+          <button class="lang-btn" data-lang="modern">Linguagem de hoje</button>
+        </div>
+      </section>
+
+      <section class="card reflection-card">
+        <p class="card-title">Reflexão</p>
+        <p class="reflection-text" id="reflection-text">Carregando...</p>
+      </section>
+
+      <button id="btn-chapter" class="link-btn">Ler o capítulo completo →</button>
+
+      <section class="card notes-card">
+        <p class="card-title">Suas anotações</p>
+        <textarea id="notes" placeholder="Escreva aqui o que Deus falou com você hoje..."></textarea>
+        <div class="notes-footer">
+          <span id="notes-status" class="notes-status"></span>
+        </div>
+      </section>
+
+      <p class="faith-line">Tudo para honra e glória de Deus Pai, por Jesus Cristo, pelo Espírito Santo.</p>
+    </main>
+
+    <section id="view-chapter" class="view hidden">
+      <button id="btn-back" class="link-btn back-btn">← Voltar</button>
+      <h2 id="chapter-title" class="chapter-title">—</h2>
+      <div id="chapter-body" class="chapter-body"></div>
+    </section>
+
+    <nav class="tabbar">
+      <button class="tab-btn active" data-view="home">
+        <span class="tab-icon">📖</span><span>Hoje</span>
+      </button>
+      <button class="tab-btn" data-view="progress">
+        <span class="tab-icon">📅</span><span>Jornada</span>
+      </button>
+      <button class="tab-btn" data-view="settings">
+        <span class="tab-icon">⚙️</span><span>Ajustes</span>
+      </button>
+    </nav>
+
+    <section id="view-progress" class="view hidden">
+      <h2 class="section-title">Sua jornada</h2>
+      <p class="section-sub" id="progress-sub">—</p>
+      <div class="progress-bar-outer"><div class="progress-bar-inner" id="progress-bar"></div></div>
+      <div id="day-grid" class="day-grid"></div>
+    </section>
+
+    <section id="view-settings" class="view hidden">
+      <h2 class="section-title">Ajustes</h2>
+
+      <div class="settings-row">
+        <div>
+          <p class="settings-label">Lembrete diário</p>
+          <p class="settings-sub">Receba uma notificação para o devocional</p>
+        </div>
+        <label class="switch">
+          <input type="checkbox" id="toggle-reminder" />
+          <span class="slider"></span>
+        </label>
+      </div>
+
+      <div class="settings-row" id="time-row">
+        <div>
+          <p class="settings-label">Horário</p>
+          <p class="settings-sub">Quando lembrar você todos os dias</p>
+        </div>
+        <input type="time" id="reminder-time" value="07:00" />
+      </div>
+
+      <div class="settings-row">
+        <div>
+          <p class="settings-label">Modo escuro</p>
+          <p class="settings-sub">Seguir preferência do sistema ou fixar</p>
+        </div>
+        <label class="switch">
+          <input type="checkbox" id="toggle-dark" />
+          <span class="slider"></span>
+        </label>
+      </div>
+
+      <p class="version-label">Devocional pessoal · v1.0</p>
+    </section>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

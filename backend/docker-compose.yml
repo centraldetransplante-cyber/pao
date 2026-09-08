@@ -1,0 +1,15 @@
+services:
+  devocional-backend:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      PORT: 3000
+      JWT_SECRET: ${JWT_SECRET}
+      DB_PATH: /data/devocional.db
+    volumes:
+      - devocional-data:/data
+
+volumes:
+  devocional-data:

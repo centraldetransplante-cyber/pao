@@ -185,11 +185,121 @@
   function onNoteInput() {
     clearTimeout(noteTimer);
     $("#notes-status").textContent = "Salvando...";
-    noteTimer = setTimeout(() => {
-      localStorage.setItem(STORAGE_PREFIX + "note:" + state.dayIndex, $("#notes").value);
+    noteTimer = setTimeout(async () => {
+      const text = $("#notes").value;
+      localStorage.setItem(STORAGE_PREFIX + "note:" + state.dayIndex, text);
       $("#notes-status").textContent = "Salvo ✓";
       setTimeout(() => ($("#notes-status").textContent = ""), 1500);
+      await syncNoteToServer(state.dayIndex, text);
     }, 500);
+  }
+
+  // --- Conta e sincronização ---
+
+  function getSession() {
+    const server = localStorage.getItem(STORAGE_PREFIX + "server");
+    const token = localStorage.getItem(STORAGE_PREFIX + "token");
+    const name = localStorage.getItem(STORAGE_PREFIX + "account-name");
+    return server && token ? { server, token, name } : null;
+  }
+
+  function saveSession(server, token, name) {
+    localStorage.setItem(STORAGE_PREFIX + "server", server);
+    localStorage.setItem(STORAGE_PREFIX + "token", token);
+    localStorage.setItem(STORAGE_PREFIX + "account-name", name);
+  }
+
+  function clearSession() {
+    localStorage.removeItem(STORAGE_PREFIX + "server");
+    localStorage.removeItem(STORAGE_PREFIX + "token");
+    localStorage.removeItem(STORAGE_PREFIX + "account-name");
+  }
+
+  function renderAccountUI() {
+    const session = getSession();
+    $("#account-logged-out").classList.toggle("hidden", !!session);
+    $("#account-logged-in").classList.toggle("hidden", !session);
+    if (session) {
+      $("#account-name-display").textContent = session.name;
+    }
+  }
+
+  async function apiCall(server, path, opts = {}) {
+    const res = await fetch(server.replace(/\/$/, "") + path, {
+      ...opts,
+      headers: { "Content-Type": "application/json", ...(opts.headers || {}) },
+    });
+    const data = await res.json().catch(() => ({}));
+    if (!res.ok) throw new Error(data.error || "Erro no servidor");
+    return data;
+  }
+
+  async function handleAuth(mode) {
+    const server = $("#sync-server").value.trim();
+    const name = $("#account-name").value.trim();
+    const email = $("#account-email").value.trim();
+    const password = $("#account-password").value;
+    const errEl = $("#account-error");
+    errEl.textContent = "";
+
+    if (!server) return (errEl.textContent = "Informe o endereço do servidor");
+    if (!email || !password) return (errEl.textContent = "Informe e-mail e senha");
+    if (mode === "register" && !name) return (errEl.textContent = "Informe seu nome pra cadastrar");
+
+    try {
+      const body =
+        mode === "register" ? { name, email, password } : { email, password };
+      const data = await apiCall(server, mode === "register" ? "/auth/register" : "/auth/login", {
+        method: "POST",
+        body: JSON.stringify(body),
+      });
+      saveSession(server, data.token, data.user.name);
+      renderAccountUI();
+      await pullNotesFromServer();
+    } catch (e) {
+      errEl.textContent = e.message;
+    }
+  }
+
+  function handleLogout() {
+    clearSession();
+    renderAccountUI();
+  }
+
+  async function syncNoteToServer(day, text) {
+    const session = getSession();
+    if (!session) return;
+    $("#sync-status").textContent = "Sincronizando...";
+    try {
+      await apiCall(session.server, "/notes/" + day, {
+        method: "PUT",
+        headers: { Authorization: "Bearer " + session.token },
+        body: JSON.stringify({ text }),
+      });
+      $("#sync-status").textContent = "Sincronizado ✓";
+    } catch (e) {
+      $("#sync-status").textContent = "Falha ao sincronizar: " + e.message;
+    }
+  }
+
+  async function pullNotesFromServer() {
+    const session = getSession();
+    if (!session) return;
+    try {
+      const rows = await apiCall(session.server, "/notes", {
+        headers: { Authorization: "Bearer " + session.token },
+      });
+      for (const row of rows) {
+        const localKey = STORAGE_PREFIX + "note:" + row.day;
+        const localText = localStorage.getItem(localKey);
+        if (localText === null || localText === "") {
+          localStorage.setItem(localKey, row.text);
+        }
+      }
+      if (!$("#view-home").classList.contains("hidden")) renderHome();
+    } catch (e) {
+      $("#sync-status").textContent = "Falha ao buscar anotações: " + e.message;
+    }
   }
 
   function bindEvents() {
@@ -213,15 +323,21 @@
 
     $("#toggle-reminder").addEventListener("change", scheduleReminder);
     $("#reminder-time").addEventListener("change", scheduleReminder);
+
+    $("#btn-login").addEventListener("click", () => handleAuth("login"));
+    $("#btn-register").addEventListener("click", () => handleAuth("register"));
+    $("#btn-logout").addEventListener("click", handleLogout);
   }
 
   async function main() {
     initTheme();
     initReminderSettings();
     bindEvents();
+    renderAccountUI();
     state.dayIndex = todayIndex();
     await loadData();
     switchView("home");
+    await pullNotesFromServer();
   }
 
   document.addEventListener("DOMContentLoaded", main);

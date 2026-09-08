@@ -75,6 +75,28 @@
     <section id="view-settings" class="view hidden">
       <h2 class="section-title">Ajustes</h2>
 
+      <div class="card account-card">
+        <p class="card-title">Conta e sincronização</p>
+
+        <div id="account-logged-out">
+          <input type="url" id="sync-server" class="text-input" placeholder="Endereço do servidor (ex: https://minha-vm.com)" />
+          <input type="text" id="account-name" class="text-input" placeholder="Nome (só ao cadastrar)" />
+          <input type="email" id="account-email" class="text-input" placeholder="E-mail" />
+          <input type="password" id="account-password" class="text-input" placeholder="Senha" />
+          <div class="account-actions">
+            <button id="btn-login" class="primary-btn">Entrar</button>
+            <button id="btn-register" class="secondary-btn">Cadastrar</button>
+          </div>
+          <p id="account-error" class="account-error"></p>
+        </div>
+
+        <div id="account-logged-in" class="hidden">
+          <p class="account-status">Conectado como <strong id="account-name-display">—</strong></p>
+          <p class="account-status" id="sync-status"></p>
+          <button id="btn-logout" class="secondary-btn">Sair</button>
+        </div>
+      </div>
+
       <div class="settings-row">
         <div>
           <p class="settings-label">Lembrete diário</p>

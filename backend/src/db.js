@@ -12,7 +12,8 @@ db.exec(`
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     name TEXT NOT NULL,
     email TEXT NOT NULL UNIQUE,
-    password_hash TEXT NOT NULL,
+    password_hash TEXT,
+    google_sub TEXT UNIQUE,
     created_at TEXT NOT NULL DEFAULT (datetime('now'))
   );
 
@@ -24,5 +25,12 @@ db.exec(`
     PRIMARY KEY (user_id, day)
   );
 `);
+
+// Migracao leve para bancos ja existentes criados antes do login com Google
+// (password_hash era NOT NULL e google_sub nao existia).
+const columns = db.prepare("PRAGMA table_info(users)").all();
+if (!columns.some((c) => c.name === "google_sub")) {
+  db.exec("ALTER TABLE users ADD COLUMN google_sub TEXT UNIQUE");
+}
 
 module.exports = db;

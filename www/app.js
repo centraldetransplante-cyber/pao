@@ -196,6 +196,100 @@
 
   // --- Conta e sincronização ---
 
+  let googleClientId = null;
+  let socialLoginInitPromise = null;
+  const isNativeApp = !!(window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform());
+
+  async function loadGoogleConfig(server) {
+    googleClientId = null;
+    $("#btn-google").classList.add("hidden");
+    try {
+      const res = await fetch(server.replace(/\/$/, "") + "/config");
+      const cfg = await res.json();
+      if (cfg && cfg.googleClientId) {
+        googleClientId = cfg.googleClientId;
+        $("#btn-google").classList.remove("hidden");
+      }
+    } catch (e) {
+      // servidor offline ou sem /config: login com Google fica indisponível, sem quebrar o resto
+    }
+  }
+
+  function ensureSocialLoginInit() {
+    const SocialLogin = window.Capacitor && window.Capacitor.Plugins && window.Capacitor.Plugins.SocialLogin;
+    if (!SocialLogin) return Promise.reject(new Error("SocialLogin indisponível"));
+    if (!socialLoginInitPromise) {
+      socialLoginInitPromise = SocialLogin.initialize({ google: { webClientId: googleClientId } });
+    }
+    return socialLoginInitPromise;
+  }
+
+  let gsiScriptPromise = null;
+  function ensureGsiScriptLoaded() {
+    if (window.google && window.google.accounts && window.google.accounts.id) return Promise.resolve();
+    if (!gsiScriptPromise) {
+      gsiScriptPromise = new Promise((resolve, reject) => {
+        const s = document.createElement("script");
+        s.src = "https://accounts.google.com/gsi/client";
+        s.async = true;
+        s.defer = true;
+        s.onload = () => resolve();
+        s.onerror = () => reject(new Error("Falha ao carregar o script do Google."));
+        document.head.appendChild(s);
+      });
+    }
+    return gsiScriptPromise;
+  }
+
+  async function getGoogleIdTokenNative() {
+    await ensureSocialLoginInit();
+    const SocialLogin = window.Capacitor.Plugins.SocialLogin;
+    const res = await SocialLogin.login({ provider: "google", options: {} });
+    const idToken = res && res.result && res.result.idToken;
+    if (!idToken) throw new Error("Falha na autenticação com Google.");
+    return idToken;
+  }
+
+  async function getGoogleIdTokenWeb() {
+    await ensureGsiScriptLoaded();
+    return new Promise((resolve, reject) => {
+      window.google.accounts.id.initialize({
+        client_id: googleClientId,
+        callback: (response) => {
+          if (response && response.credential) resolve(response.credential);
+          else reject(new Error("Falha na autenticação com Google."));
+        },
+      });
+      window.google.accounts.id.prompt((notification) => {
+        if (notification && (notification.isNotDisplayed() || notification.isSkippedMoment())) {
+          reject(new Error("Login com Google cancelado ou bloqueado pelo navegador."));
+        }
+      });
+    });
+  }
+
+  async function handleGoogleLogin() {
+    const server = $("#sync-server").value.trim();
+    const errEl = $("#account-error");
+    errEl.textContent = "";
+
+    if (!server) return (errEl.textContent = "Informe o endereço do servidor");
+    if (!googleClientId) return (errEl.textContent = "Login com Google não disponível neste servidor");
+
+    try {
+      const idToken = isNativeApp ? await getGoogleIdTokenNative() : await getGoogleIdTokenWeb();
+      const data = await apiCall(server, "/auth/google", {
+        method: "POST",
+        body: JSON.stringify({ idToken }),
+      });
+      saveSession(server, data.token, data.user.name);
+      renderAccountUI();
+      await pullNotesFromServer();
+    } catch (e) {
+      errEl.textContent = e.message;
+    }
+  }
+
   function getSession() {
     const server = localStorage.getItem(STORAGE_PREFIX + "server");
     const token = localStorage.getItem(STORAGE_PREFIX + "token");
@@ -327,6 +421,16 @@
     $("#btn-login").addEventListener("click", () => handleAuth("login"));
     $("#btn-register").addEventListener("click", () => handleAuth("register"));
     $("#btn-logout").addEventListener("click", handleLogout);
+    $("#btn-google").addEventListener("click", handleGoogleLogin);
+
+    let serverCheckTimer = null;
+    $("#sync-server").addEventListener("input", (e) => {
+      clearTimeout(serverCheckTimer);
+      const server = e.target.value.trim();
+      serverCheckTimer = setTimeout(() => {
+        if (server) loadGoogleConfig(server);
+      }, 500);
+    });
   }
 
   async function main() {
@@ -334,6 +438,11 @@
     initReminderSettings();
     bindEvents();
     renderAccountUI();
+    const session = getSession();
+    if (session) {
+      $("#sync-server").value = session.server;
+      loadGoogleConfig(session.server);
+    }
     state.dayIndex = todayIndex();
     await loadData();
     switchView("home");

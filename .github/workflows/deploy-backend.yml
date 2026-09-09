@@ -1,0 +1,63 @@
+name: Deploy backend
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "backend/**"
+      - ".github/workflows/deploy-backend.yml"
+
+concurrency:
+  group: deploy-backend-${{ github.ref_name }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Empacotar backend (sem node_modules)
+        run: tar -czf /tmp/devocional-backend.tgz -C backend --exclude=node_modules --exclude=data .
+
+      - name: Configurar chave SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.DEVOCIONAL_ORACLE_SSH_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -H 163.176.30.222 >> ~/.ssh/known_hosts
+
+      - name: Enviar codigo para a VM
+        run: |
+          scp -i ~/.ssh/deploy_key /tmp/devocional-backend.tgz \
+            ubuntu@163.176.30.222:/tmp/devocional-backend.tgz
+
+      - name: Subir/reiniciar o container na VM
+        run: |
+          ssh -i ~/.ssh/deploy_key ubuntu@163.176.30.222 '
+            set -e
+            sudo mkdir -p /opt/devocional-backend
+            sudo tar -xzf /tmp/devocional-backend.tgz -C /opt/devocional-backend
+            rm -f /tmp/devocional-backend.tgz
+            cd /opt/devocional-backend
+            if [ ! -f .env ]; then
+              echo "ERRO: /opt/devocional-backend/.env nao existe. Crie com JWT_SECRET e GOOGLE_WEB_CLIENT_ID antes do primeiro deploy." >&2
+              exit 1
+            fi
+            if ! command -v docker >/dev/null; then
+              echo "Docker nao encontrado na VM, instalando..."
+              curl -fsSL https://get.docker.com | sudo sh
+              sudo usermod -aG docker ubuntu
+            fi
+            sudo docker compose up -d --build
+            sleep 5
+            sudo docker compose ps
+          '
+
+      - name: Health check
+        run: |
+          ssh -i ~/.ssh/deploy_key ubuntu@163.176.30.222 \
+            'curl -sf http://localhost:3001/health'

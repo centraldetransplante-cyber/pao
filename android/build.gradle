@@ -21,6 +21,16 @@ allprojects {
         google()
         mavenCentral()
     }
+    configurations.all {
+        resolutionStrategy {
+            // O plugin de login social usa com.google.androidbrowserhelper:2.5.0 (parte do
+            // fluxo do Google) que trava androidx.browser em 1.4.0, mas o codigo do provider
+            // Apple (compileOnly, nao usado) pede 1.9.0, que exige compileSdk 36/AGP 8.9.1+
+            // (nosso projeto usa compileSdk 35/AGP 8.7.2). Forcar 1.4.0 satisfaz as duas
+            // dependencias sem precisar atualizar o SDK/AGP.
+            force 'androidx.browser:browser:1.4.0'
+        }
+    }
 }
 
 task clean(type: Delete) {

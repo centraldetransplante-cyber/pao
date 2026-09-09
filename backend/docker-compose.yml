@@ -3,10 +3,11 @@ services:
     build: .
     restart: unless-stopped
     ports:
-      - "3000:3000"
+      - "3001:3000"
     environment:
       PORT: 3000
       JWT_SECRET: ${JWT_SECRET}
+      GOOGLE_WEB_CLIENT_ID: ${GOOGLE_WEB_CLIENT_ID}
       DB_PATH: /data/devocional.db
     volumes:
       - devocional-data:/data

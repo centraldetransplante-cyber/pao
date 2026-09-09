@@ -420,8 +420,8 @@
 
     $("#btn-login").addEventListener("click", () => handleAuth("login"));
     $("#btn-register").addEventListener("click", () => handleAuth("register"));
-    $("#btn-logout").addEventListener("click", handleLogout);
     $("#btn-google").addEventListener("click", handleGoogleLogin);
+    $("#btn-logout").addEventListener("click", handleLogout);
 
     let serverCheckTimer = null;
     $("#sync-server").addEventListener("input", (e) => {

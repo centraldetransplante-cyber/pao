@@ -10,6 +10,14 @@
     "LocalNotifications": {
       "smallIcon": "ic_stat_devocional",
       "iconColor": "#c9a24b"
+    },
+    "SocialLogin": {
+      "providers": {
+        "google": true,
+        "facebook": false,
+        "apple": false,
+        "twitter": false
+      }
     }
   }
 }

@@ -229,7 +229,10 @@ html, body {
   align-items: center;
   justify-content: center;
   font-size: 10.5px;
+  font-family: inherit;
   color: var(--ink-soft);
+  padding: 0;
+  cursor: pointer;
 }
 .day-cell.done { background: var(--gold); border-color: var(--gold); color: #fff; font-weight: 700; }
 .day-cell.today { border: 2px solid var(--gold); color: var(--gold); font-weight: 700; }

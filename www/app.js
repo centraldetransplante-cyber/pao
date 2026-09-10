@@ -94,11 +94,18 @@
     grid.innerHTML = "";
     const frag = document.createDocumentFragment();
     for (let d = 1; d <= 365; d++) {
-      const cell = document.createElement("div");
+      const cell = document.createElement("button");
+      cell.type = "button";
       cell.className = "day-cell";
       if (d < idx) cell.classList.add("done");
       if (d === idx) cell.classList.add("today");
       cell.textContent = d;
+      cell.addEventListener("click", () => {
+        state.dayIndex = d;
+        state.lang = "original";
+        document.querySelectorAll(".lang-btn").forEach((b) => b.classList.toggle("active", b.dataset.lang === "original"));
+        switchView("home");
+      });
       frag.appendChild(cell);
     }
     grid.appendChild(frag);

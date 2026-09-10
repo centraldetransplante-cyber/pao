@@ -321,13 +321,13 @@ html, body {
   align-items: center;
   justify-content: center;
   gap: 8px;
-  min-height: 100vh;
+  height: 100%;
   padding: 24px;
   text-align: center;
 }
 .login-screen .brand-mark { font-size: 40px; }
 .login-screen .brand-text { font-size: 22px; font-weight: 700; }
-.login-screen .google-btn { max-width: 280px; margin-top: 16px; }
+.login-screen .google-btn { flex: none; max-width: 280px; margin-top: 16px; }
 .account-divider { display: flex; align-items: center; gap: 8px; margin: 12px 0; color: var(--ink-soft); font-size: 12px; }
 .account-divider::before, .account-divider::after { content: ""; flex: 1; height: 1px; background: var(--bg); }
 .account-status { font-size: 14px; margin: 4px 0 10px; color: var(--ink-soft); }

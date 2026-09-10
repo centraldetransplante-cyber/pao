@@ -8,6 +8,18 @@
 </head>
 <body>
   <div id="app">
+    <section id="view-login" class="view">
+      <div class="login-screen">
+        <span class="brand-mark">✦</span>
+        <p class="brand-text">Devocional</p>
+        <p class="settings-sub">Entre com sua conta Google para continuar</p>
+        <button id="btn-google" class="secondary-btn google-btn" type="button">
+          <span class="google-icon" aria-hidden="true">G</span> Entrar com Google
+        </button>
+        <p id="account-error" class="account-error"></p>
+      </div>
+    </section>
+
     <header class="topbar">
       <div class="brand">
         <span class="brand-mark">✦</span>
@@ -16,7 +28,7 @@
       <button id="theme-toggle" class="icon-btn" aria-label="Alternar tema">🌙</button>
     </header>
 
-    <main id="view-home" class="view">
+    <main id="view-home" class="view hidden">
       <p class="greeting" id="greeting">Bom dia, Rafael</p>
       <p class="date-label" id="date-label"></p>
 
@@ -78,25 +90,7 @@
       <div class="card account-card">
         <p class="card-title">Conta e sincronização</p>
 
-        <div id="account-logged-out">
-          <input type="url" id="sync-server" class="text-input" placeholder="Endereço do servidor (ex: https://minha-vm.com)" />
-          <button id="btn-google" class="secondary-btn google-btn hidden" type="button">
-            <span class="google-icon" aria-hidden="true">G</span> Entrar com Google
-          </button>
-          <p class="settings-sub">ou com e-mail e senha:</p>
-          <input type="text" id="account-name" class="text-input" placeholder="Nome (só ao cadastrar)" />
-          <input type="email" id="account-email" class="text-input" placeholder="E-mail" />
-          <input type="password" id="account-password" class="text-input" placeholder="Senha" />
-          <div class="account-actions">
-            <button id="btn-login" class="primary-btn">Entrar</button>
-            <button id="btn-register" class="secondary-btn">Cadastrar</button>
-          </div>
-          <p id="account-error" class="account-error"></p>
-          <div class="account-divider"><span>ou</span></div>
-          <button id="btn-google" class="secondary-btn">Entrar com Google</button>
-        </div>
-
-        <div id="account-logged-in" class="hidden">
+        <div id="account-logged-in">
           <p class="account-status">Conectado como <strong id="account-name-display">—</strong></p>
           <p class="account-status" id="sync-status"></p>
           <button id="btn-logout" class="secondary-btn">Sair</button>

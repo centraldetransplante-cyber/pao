@@ -3,6 +3,7 @@
 
   const NAME = "Rafael";
   const STORAGE_PREFIX = "devocional:";
+  const SERVER_URL = "http://163.176.30.222:3001";
 
   const state = {
     plano: null,
@@ -200,18 +201,16 @@
   let socialLoginInitPromise = null;
   const isNativeApp = !!(window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform());
 
-  async function loadGoogleConfig(server) {
+  async function loadGoogleConfig() {
     googleClientId = null;
-    $("#btn-google").classList.add("hidden");
     try {
-      const res = await fetch(server.replace(/\/$/, "") + "/config");
+      const res = await fetch(SERVER_URL.replace(/\/$/, "") + "/config");
       const cfg = await res.json();
       if (cfg && cfg.googleClientId) {
         googleClientId = cfg.googleClientId;
-        $("#btn-google").classList.remove("hidden");
       }
     } catch (e) {
-      // servidor offline ou sem /config: login com Google fica indisponível, sem quebrar o resto
+      $("#account-error").textContent = "Não foi possível contatar o servidor. Verifique sua internet.";
     }
   }
 
@@ -269,22 +268,22 @@
   }
 
   async function handleGoogleLogin() {
-    const server = $("#sync-server").value.trim();
     const errEl = $("#account-error");
     errEl.textContent = "";
 
-    if (!server) return (errEl.textContent = "Informe o endereço do servidor");
-    if (!googleClientId) return (errEl.textContent = "Login com Google não disponível neste servidor");
+    if (!googleClientId) {
+      await loadGoogleConfig();
+      if (!googleClientId) return (errEl.textContent = "Login com Google indisponível no momento. Tente novamente.");
+    }
 
     try {
       const idToken = isNativeApp ? await getGoogleIdTokenNative() : await getGoogleIdTokenWeb();
-      const data = await apiCall(server, "/auth/google", {
+      const data = await apiCall(SERVER_URL, "/auth/google", {
         method: "POST",
         body: JSON.stringify({ idToken }),
       });
-      saveSession(server, data.token, data.user.name);
-      renderAccountUI();
-      await pullNotesFromServer();
+      saveSession(SERVER_URL, data.token, data.user.name);
+      await enterApp();
     } catch (e) {
       errEl.textContent = e.message;
     }
@@ -311,11 +310,24 @@
 
   function renderAccountUI() {
     const session = getSession();
-    $("#account-logged-out").classList.toggle("hidden", !!session);
-    $("#account-logged-in").classList.toggle("hidden", !session);
     if (session) {
       $("#account-name-display").textContent = session.name;
     }
+  }
+
+  function showLoginGate() {
+    $("#view-login").classList.remove("hidden");
+    $(".topbar").classList.add("hidden");
+    $(".tabbar").classList.add("hidden");
+    document.querySelectorAll("#app > main.view, #app > section.view").forEach((el) => {
+      if (el.id !== "view-login") el.classList.add("hidden");
+    });
+  }
+
+  function hideLoginGate() {
+    $("#view-login").classList.add("hidden");
+    $(".topbar").classList.remove("hidden");
+    $(".tabbar").classList.remove("hidden");
   }
 
   async function apiCall(server, path, opts = {}) {
@@ -328,36 +340,9 @@
     return data;
   }
 
-  async function handleAuth(mode) {
-    const server = $("#sync-server").value.trim();
-    const name = $("#account-name").value.trim();
-    const email = $("#account-email").value.trim();
-    const password = $("#account-password").value;
-    const errEl = $("#account-error");
-    errEl.textContent = "";
-
-    if (!server) return (errEl.textContent = "Informe o endereço do servidor");
-    if (!email || !password) return (errEl.textContent = "Informe e-mail e senha");
-    if (mode === "register" && !name) return (errEl.textContent = "Informe seu nome pra cadastrar");
-
-    try {
-      const body =
-        mode === "register" ? { name, email, password } : { email, password };
-      const data = await apiCall(server, mode === "register" ? "/auth/register" : "/auth/login", {
-        method: "POST",
-        body: JSON.stringify(body),
-      });
-      saveSession(server, data.token, data.user.name);
-      renderAccountUI();
-      await pullNotesFromServer();
-    } catch (e) {
-      errEl.textContent = e.message;
-    }
-  }
-
   function handleLogout() {
     clearSession();
-    renderAccountUI();
+    showLoginGate();
   }
 
   async function syncNoteToServer(day, text) {
@@ -418,35 +403,30 @@
     $("#toggle-reminder").addEventListener("change", scheduleReminder);
     $("#reminder-time").addEventListener("change", scheduleReminder);
 
-    $("#btn-login").addEventListener("click", () => handleAuth("login"));
-    $("#btn-register").addEventListener("click", () => handleAuth("register"));
     $("#btn-google").addEventListener("click", handleGoogleLogin);
     $("#btn-logout").addEventListener("click", handleLogout);
+  }
 
-    let serverCheckTimer = null;
-    $("#sync-server").addEventListener("input", (e) => {
-      clearTimeout(serverCheckTimer);
-      const server = e.target.value.trim();
-      serverCheckTimer = setTimeout(() => {
-        if (server) loadGoogleConfig(server);
-      }, 500);
-    });
+  async function enterApp() {
+    hideLoginGate();
+    renderAccountUI();
+    state.dayIndex = todayIndex();
+    await loadData();
+    switchView("home");
+    await pullNotesFromServer();
   }
 
   async function main() {
     initTheme();
     initReminderSettings();
     bindEvents();
-    renderAccountUI();
+    await loadGoogleConfig();
     const session = getSession();
     if (session) {
-      $("#sync-server").value = session.server;
-      loadGoogleConfig(session.server);
+      await enterApp();
+    } else {
+      showLoginGate();
     }
-    state.dayIndex = todayIndex();
-    await loadData();
-    switchView("home");
-    await pullNotesFromServer();
   }
 
   document.addEventListener("DOMContentLoaded", main);

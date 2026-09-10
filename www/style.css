@@ -132,6 +132,10 @@ html, body {
 
 .reflection-text { font-size: 15.5px; line-height: 1.65; margin: 0; }
 
+.practice-card { background: var(--gold-soft); border-color: transparent; }
+.practice-card .card-title { color: var(--gold); }
+.practice-text { font-size: 15px; line-height: 1.6; margin: 0; font-weight: 500; }
+
 .link-btn {
   background: none;
   border: none;

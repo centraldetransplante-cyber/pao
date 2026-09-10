@@ -92,6 +92,7 @@
     $("#verse-text").textContent =
       state.lang === "modern" ? entry.modernText : entry.highlightText;
     $("#reflection-text").textContent = entry.reflection;
+    $("#practice-text").textContent = entry.practice || "";
 
     const savedNote = localStorage.getItem(STORAGE_PREFIX + "note:" + state.dayIndex) || "";
     $("#notes").value = savedNote;

@@ -44,6 +44,7 @@ for (const abbrev of GOSPEL_BOOKS) {
       day,
       reflection: refl ? refl.reflection : '',
       modernText: refl ? refl.modernText : '',
+      practice: refl ? refl.practice || '' : '',
     });
   }
 }

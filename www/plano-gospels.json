@@ -1,0 +1,892 @@
+[
+  {
+    "day": 1,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 1,
+    "reference": "Mateus 1",
+    "highlightVerse": 1,
+    "highlightText": "Livro da geração de Jesus Cristo, filho de Davi, filho de Abraão.",
+    "verseCount": 25
+  },
+  {
+    "day": 2,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 2,
+    "reference": "Mateus 2",
+    "highlightVerse": 1,
+    "highlightText": "E, tendo nascido Jesus em Belém de Judéia, no tempo do rei Herodes, eis que uns magos vieram do oriente a Jerusalém,",
+    "verseCount": 23
+  },
+  {
+    "day": 3,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 3,
+    "reference": "Mateus 3",
+    "highlightVerse": 1,
+    "highlightText": "E, naqueles dias, apareceu João o Batista pregando no deserto da Judéia,",
+    "verseCount": 17
+  },
+  {
+    "day": 4,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 4,
+    "reference": "Mateus 4",
+    "highlightVerse": 1,
+    "highlightText": "Então foi conduzido Jesus pelo Espírito ao deserto, para ser tentado pelo diabo.",
+    "verseCount": 25
+  },
+  {
+    "day": 5,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 5,
+    "reference": "Mateus 5",
+    "highlightVerse": 1,
+    "highlightText": "E Jesus, vendo a multidão, subiu a um monte, e, assentando-se, aproximaram-se dele os seus discípulos;",
+    "verseCount": 48
+  },
+  {
+    "day": 6,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 6,
+    "reference": "Mateus 6",
+    "highlightVerse": 1,
+    "highlightText": "Guardai-vos de fazer a vossa esmola diante dos homens, para serdes vistos por eles; aliás, não tereis galardão junto de vosso Pai, que está nos céus.",
+    "verseCount": 34
+  },
+  {
+    "day": 7,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 7,
+    "reference": "Mateus 7",
+    "highlightVerse": 1,
+    "highlightText": "Não julgueis, para que não sejais julgados.",
+    "verseCount": 29
+  },
+  {
+    "day": 8,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 8,
+    "reference": "Mateus 8",
+    "highlightVerse": 1,
+    "highlightText": "E, descendo ele do monte, seguiu-o uma grande multidão.",
+    "verseCount": 34
+  },
+  {
+    "day": 9,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 9,
+    "reference": "Mateus 9",
+    "highlightVerse": 1,
+    "highlightText": "E, entrando no barco, passou para o outro lado, e chegou à sua cidade. E eis que lhe trouxeram um paralítico, deitado numa cama.",
+    "verseCount": 38
+  },
+  {
+    "day": 10,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 10,
+    "reference": "Mateus 10",
+    "highlightVerse": 1,
+    "highlightText": "E, chamando os seus doze discípulos, deu-lhes poder sobre os espíritos imundos, para os expulsarem, e para curarem toda a enfermidade e todo o mal.",
+    "verseCount": 42
+  },
+  {
+    "day": 11,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 11,
+    "reference": "Mateus 11",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, acabando Jesus de dar instruções aos seus doze discípulos, partiu dali a ensinar e a pregar nas cidades deles.",
+    "verseCount": 30
+  },
+  {
+    "day": 12,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 12,
+    "reference": "Mateus 12",
+    "highlightVerse": 1,
+    "highlightText": "Naquele tempo passou Jesus pelas searas, em um sábado; e os seus discípulos, tendo fome, começaram a colher espigas, e a comer.",
+    "verseCount": 50
+  },
+  {
+    "day": 13,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 13,
+    "reference": "Mateus 13",
+    "highlightVerse": 1,
+    "highlightText": "Tendo Jesus saído de casa, naquele dia, estava assentado junto ao mar;",
+    "verseCount": 58
+  },
+  {
+    "day": 14,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 14,
+    "reference": "Mateus 14",
+    "highlightVerse": 1,
+    "highlightText": "Naquele tempo ouviu Herodes, o tetrarca, a fama de Jesus,",
+    "verseCount": 36
+  },
+  {
+    "day": 15,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 15,
+    "reference": "Mateus 15",
+    "highlightVerse": 1,
+    "highlightText": "Então chegaram ao pé de Jesus uns escribas e fariseus de Jerusalém, dizendo:",
+    "verseCount": 39
+  },
+  {
+    "day": 16,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 16,
+    "reference": "Mateus 16",
+    "highlightVerse": 1,
+    "highlightText": "E, chegando-se os fariseus e os saduceus, para o tentarem, pediram-lhe que lhes mostrasse algum sinal do céu.",
+    "verseCount": 28
+  },
+  {
+    "day": 17,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 17,
+    "reference": "Mateus 17",
+    "highlightVerse": 1,
+    "highlightText": "Seis dias depois, tomou Jesus consigo a Pedro, e a Tiago, e a João, seu irmão, e os conduziu em particular a um alto monte,",
+    "verseCount": 27
+  },
+  {
+    "day": 18,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 18,
+    "reference": "Mateus 18",
+    "highlightVerse": 1,
+    "highlightText": "Naquela mesma hora chegaram os discípulos ao pé de Jesus, dizendo: Quem é o maior no reino dos céus?",
+    "verseCount": 35
+  },
+  {
+    "day": 19,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 19,
+    "reference": "Mateus 19",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, concluindo Jesus estes discursos, saiu da Galiléia, e dirigiu- se aos confins da Judéia, além do Jordão;",
+    "verseCount": 30
+  },
+  {
+    "day": 20,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 20,
+    "reference": "Mateus 20",
+    "highlightVerse": 1,
+    "highlightText": "Porque o reino dos céus é semelhante a um homem, pai de família, que saiu de madrugada a assalariar trabalhadores para a sua vinha.",
+    "verseCount": 34
+  },
+  {
+    "day": 21,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 21,
+    "reference": "Mateus 21",
+    "highlightVerse": 1,
+    "highlightText": "E, quando se aproximaram de Jerusalém, e chegaram a Betfagé, ao Monte das Oliveiras, enviou, então, Jesus dois discípulos, dizendo-lhes:",
+    "verseCount": 46
+  },
+  {
+    "day": 22,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 22,
+    "reference": "Mateus 22",
+    "highlightVerse": 1,
+    "highlightText": "Então Jesus, tomando a palavra, tornou a falar-lhes em parábolas, dizendo:",
+    "verseCount": 46
+  },
+  {
+    "day": 23,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 23,
+    "reference": "Mateus 23",
+    "highlightVerse": 1,
+    "highlightText": "Então falou Jesus à multidão, e aos seus discípulos,",
+    "verseCount": 39
+  },
+  {
+    "day": 24,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 24,
+    "reference": "Mateus 24",
+    "highlightVerse": 1,
+    "highlightText": "E, quando Jesus ia saindo do templo, aproximaram-se dele os seus discípulos para lhe mostrarem a estrutura do templo.",
+    "verseCount": 51
+  },
+  {
+    "day": 25,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 25,
+    "reference": "Mateus 25",
+    "highlightVerse": 1,
+    "highlightText": "Então o reino dos céus será semelhante a dez virgens que, tomando as suas lâmpadas, saíram ao encontro do esposo.",
+    "verseCount": 46
+  },
+  {
+    "day": 26,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 26,
+    "reference": "Mateus 26",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, quando Jesus concluiu todos estes discursos, disse aos seus discípulos:",
+    "verseCount": 75
+  },
+  {
+    "day": 27,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 27,
+    "reference": "Mateus 27",
+    "highlightVerse": 1,
+    "highlightText": "E, chegando a manhã, todos os príncipes dos sacerdotes, e os anciãos do povo, formavam juntamente conselho contra Jesus, para o matarem;",
+    "verseCount": 66
+  },
+  {
+    "day": 28,
+    "abbrev": "mt",
+    "book": "Mateus",
+    "chapter": 28,
+    "reference": "Mateus 28",
+    "highlightVerse": 1,
+    "highlightText": "E, no fim do sábado, quando já despontava o primeiro dia da semana, Maria Madalena e a outra Maria foram ver o sepulcro.",
+    "verseCount": 20
+  },
+  {
+    "day": 29,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 1,
+    "reference": "Marcos 1",
+    "highlightVerse": 1,
+    "highlightText": "Princípio do Evangelho de Jesus Cristo, Filho de Deus;",
+    "verseCount": 45
+  },
+  {
+    "day": 30,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 2,
+    "reference": "Marcos 2",
+    "highlightVerse": 1,
+    "highlightText": "E alguns dias depois entrou outra vez em Cafarnaum, e soube-se que estava em casa.",
+    "verseCount": 28
+  },
+  {
+    "day": 31,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 3,
+    "reference": "Marcos 3",
+    "highlightVerse": 1,
+    "highlightText": "E outra vez entrou na sinagoga, e estava ali um homem que tinha uma das mãos mirrada.",
+    "verseCount": 35
+  },
+  {
+    "day": 32,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 4,
+    "reference": "Marcos 4",
+    "highlightVerse": 1,
+    "highlightText": "E outra vez começou a ensinar junto do mar, e ajuntou-se a ele grande multidão, de sorte que ele entrou e assentou-se num barco, sobre o mar; e toda a multidão estava em terra junto do mar.",
+    "verseCount": 41
+  },
+  {
+    "day": 33,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 5,
+    "reference": "Marcos 5",
+    "highlightVerse": 1,
+    "highlightText": "E chegaram ao outro lado do mar, à província dos gadarenos.",
+    "verseCount": 43
+  },
+  {
+    "day": 34,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 6,
+    "reference": "Marcos 6",
+    "highlightVerse": 1,
+    "highlightText": "E, partindo dali, chegou à sua pátria, e os seus discípulos o seguiram.",
+    "verseCount": 56
+  },
+  {
+    "day": 35,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 7,
+    "reference": "Marcos 7",
+    "highlightVerse": 1,
+    "highlightText": "E ajuntaram-se a ele os fariseus, e alguns dos escribas que tinham vindo de Jerusalém.",
+    "verseCount": 37
+  },
+  {
+    "day": 36,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 8,
+    "reference": "Marcos 8",
+    "highlightVerse": 1,
+    "highlightText": "Naqueles dias, havendo uma grande multidão, e não tendo o que comer, Jesus chamou a si os seus discípulos, e disse-lhes:",
+    "verseCount": 38
+  },
+  {
+    "day": 37,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 9,
+    "reference": "Marcos 9",
+    "highlightVerse": 1,
+    "highlightText": "Dizia-lhes também: Em verdade vos digo que, dos que aqui estão, alguns há que não provarão a morte sem que vejam chegado o reino de Deus com poder.",
+    "verseCount": 50
+  },
+  {
+    "day": 38,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 10,
+    "reference": "Marcos 10",
+    "highlightVerse": 1,
+    "highlightText": "E, levantando-se dali, foi para os termos da Judéia, além do Jordão, e a multidão se reuniu em torno dele; e tornou a ensiná-los, como tinha por costume.",
+    "verseCount": 52
+  },
+  {
+    "day": 39,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 11,
+    "reference": "Marcos 11",
+    "highlightVerse": 1,
+    "highlightText": "E, logo que se aproximaram de Jerusalém, de Betfagé e de Betânia, junto do Monte das Oliveiras, enviou dois dos seus discípulos,",
+    "verseCount": 33
+  },
+  {
+    "day": 40,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 12,
+    "reference": "Marcos 12",
+    "highlightVerse": 1,
+    "highlightText": "E começou a falar-lhes por parábolas: Um homem plantou uma vinha, e cercou-a de um valado, e fundou nela um lagar, e edificou uma torre, e arrendou-a a uns lavradores, e partiu para fora da terra.",
+    "verseCount": 44
+  },
+  {
+    "day": 41,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 13,
+    "reference": "Marcos 13",
+    "highlightVerse": 1,
+    "highlightText": "E, saindo ele do templo, disse-lhe um dos seus discípulos: Mestre, olha que pedras, e que edifícios!",
+    "verseCount": 37
+  },
+  {
+    "day": 42,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 14,
+    "reference": "Marcos 14",
+    "highlightVerse": 1,
+    "highlightText": "E dali a dois dias era a páscoa, e a festa dos pães ázimos; e os principais dos sacerdotes e os escribas buscavam como o prenderiam com dolo, e o matariam.",
+    "verseCount": 72
+  },
+  {
+    "day": 43,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 15,
+    "reference": "Marcos 15",
+    "highlightVerse": 1,
+    "highlightText": "E, logo ao amanhecer, os principais dos sacerdotes, com os anciãos, e os escribas, e todo o Sinédrio, tiveram conselho; e, ligando Jesus, o levaram e entregaram a Pilatos.",
+    "verseCount": 47
+  },
+  {
+    "day": 44,
+    "abbrev": "mc",
+    "book": "Marcos",
+    "chapter": 16,
+    "reference": "Marcos 16",
+    "highlightVerse": 1,
+    "highlightText": "E, passado o sábado, Maria Madalena, e Maria, mãe de Tiago, e Salomé, compraram aromas para irem ungi-lo.",
+    "verseCount": 20
+  },
+  {
+    "day": 45,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 1,
+    "reference": "Lucas 1",
+    "highlightVerse": 1,
+    "highlightText": "Tendo, pois, muitos empreendido pôr em ordem a narração dos fatos que entre nós se cumpriram,",
+    "verseCount": 80
+  },
+  {
+    "day": 46,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 2,
+    "reference": "Lucas 2",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu naqueles dias que saiu um decreto da parte de César Augusto, para que todo o mundo se alistasse",
+    "verseCount": 52
+  },
+  {
+    "day": 47,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 3,
+    "reference": "Lucas 3",
+    "highlightVerse": 1,
+    "highlightText": "E no ano quinze do império de Tibério César, sendo Pôncio Pilatos presidente da Judéia, e Herodes tetrarca da Galiléia, e seu irmão Filipe tetrarca da Ituréia e da província de Traconites, e Lisânias tetrarca de Abilene,",
+    "verseCount": 38
+  },
+  {
+    "day": 48,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 4,
+    "reference": "Lucas 4",
+    "highlightVerse": 1,
+    "highlightText": "E Jesus, cheio do Espírito Santo, voltou do Jordão e foi levado pelo Espírito ao deserto;",
+    "verseCount": 44
+  },
+  {
+    "day": 49,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 5,
+    "reference": "Lucas 5",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, apertando-o a multidão, para ouvir a palavra de Deus, estava ele junto ao lago de Genesaré;",
+    "verseCount": 39
+  },
+  {
+    "day": 50,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 6,
+    "reference": "Lucas 6",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, no segundo sábado após o primeiro, passou pelas searas, e os seus discípulos iam arrancando espigas e, esfregando-as com as mãos, as comiam.",
+    "verseCount": 49
+  },
+  {
+    "day": 51,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 7,
+    "reference": "Lucas 7",
+    "highlightVerse": 1,
+    "highlightText": "E, depois de concluir todos estes discursos perante o povo, entrou em Cafarnaum.",
+    "verseCount": 50
+  },
+  {
+    "day": 52,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 8,
+    "reference": "Lucas 8",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu, depois disto, que andava de cidade em cidade, e de aldeia em aldeia, pregando e anunciando o evangelho do reino de Deus; e os doze iam com ele,",
+    "verseCount": 56
+  },
+  {
+    "day": 53,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 9,
+    "reference": "Lucas 9",
+    "highlightVerse": 1,
+    "highlightText": "E, convocando os seus doze discípulos, deu-lhes virtude e poder sobre todos os demônios, para curarem enfermidades.",
+    "verseCount": 62
+  },
+  {
+    "day": 54,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 10,
+    "reference": "Lucas 10",
+    "highlightVerse": 1,
+    "highlightText": "E depois disto designou o Senhor ainda outros setenta, e mandou-os adiante da sua face, de dois em dois, a todas as cidades e lugares aonde ele havia de ir.",
+    "verseCount": 42
+  },
+  {
+    "day": 55,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 11,
+    "reference": "Lucas 11",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu que, estando ele a orar num certo lugar, quando acabou, lhe disse um dos seus discípulos: Senhor, ensina-nos a orar, como também João ensinou aos seus discípulos.",
+    "verseCount": 54
+  },
+  {
+    "day": 56,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 12,
+    "reference": "Lucas 12",
+    "highlightVerse": 1,
+    "highlightText": "Ajuntando-se entretanto muitos milhares de pessoas, de sorte que se atropelavam uns aos outros, começou a dizer aos seus discípulos: Acautelai-vos primeiramente do fermento dos fariseus, que é a hipocrisia.",
+    "verseCount": 59
+  },
+  {
+    "day": 57,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 13,
+    "reference": "Lucas 13",
+    "highlightVerse": 1,
+    "highlightText": "E, Naquele mesmo tempo, estavam presentes ali alguns que lhe falavam dos galileus, cujo sangue Pilatos misturara com os seus sacrifícios.",
+    "verseCount": 35
+  },
+  {
+    "day": 58,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 14,
+    "reference": "Lucas 14",
+    "highlightVerse": 1,
+    "highlightText": "Aconteceu num sábado que, entrando ele em casa de um dos principais dos fariseus para comer pão, eles o estavam observando.",
+    "verseCount": 35
+  },
+  {
+    "day": 59,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 15,
+    "reference": "Lucas 15",
+    "highlightVerse": 1,
+    "highlightText": "E Chegavam-se a ele todos os publicanos e pecadores para o ouvir.",
+    "verseCount": 32
+  },
+  {
+    "day": 60,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 16,
+    "reference": "Lucas 16",
+    "highlightVerse": 1,
+    "highlightText": "E dizia também aos seus discípulos: Havia um certo homem rico, o qual tinha um mordomo; e este foi acusado perante ele de dissipar os seus bens.",
+    "verseCount": 31
+  },
+  {
+    "day": 61,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 17,
+    "reference": "Lucas 17",
+    "highlightVerse": 1,
+    "highlightText": "E disse aos discípulos: É impossível que não venham escândalos, mas ai daquele por quem vierem!",
+    "verseCount": 37
+  },
+  {
+    "day": 62,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 18,
+    "reference": "Lucas 18",
+    "highlightVerse": 1,
+    "highlightText": "E contou-lhes também uma parábola sobre o dever de orar sempre, e nunca desfalecer,",
+    "verseCount": 43
+  },
+  {
+    "day": 63,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 19,
+    "reference": "Lucas 19",
+    "highlightVerse": 1,
+    "highlightText": "E, tendo Jesus entrado em Jericó, ia passando.",
+    "verseCount": 48
+  },
+  {
+    "day": 64,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 20,
+    "reference": "Lucas 20",
+    "highlightVerse": 1,
+    "highlightText": "E aconteceu num daqueles dias que, estando ele ensinando o povo no templo, e anunciando o evangelho, sobrevieram os principais dos sacerdotes e os escribas com os anciãos,",
+    "verseCount": 47
+  },
+  {
+    "day": 65,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 21,
+    "reference": "Lucas 21",
+    "highlightVerse": 1,
+    "highlightText": "E, olhando ele, viu os ricos lançarem as suas ofertas na arca do tesouro;",
+    "verseCount": 38
+  },
+  {
+    "day": 66,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 22,
+    "reference": "Lucas 22",
+    "highlightVerse": 1,
+    "highlightText": "Estava, pois, perto a festa dos pães ázimos, chamada a páscoa.",
+    "verseCount": 71
+  },
+  {
+    "day": 67,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 23,
+    "reference": "Lucas 23",
+    "highlightVerse": 1,
+    "highlightText": "E, levantando-se toda a multidão deles, o levaram a Pilatos.",
+    "verseCount": 56
+  },
+  {
+    "day": 68,
+    "abbrev": "lc",
+    "book": "Lucas",
+    "chapter": 24,
+    "reference": "Lucas 24",
+    "highlightVerse": 1,
+    "highlightText": "E no primeiro dia da semana, muito de madrugada, foram elas ao sepulcro, levando as especiarias que tinham preparado, e algumas outras com elas.",
+    "verseCount": 53
+  },
+  {
+    "day": 69,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 1,
+    "reference": "João 1",
+    "highlightVerse": 1,
+    "highlightText": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+    "verseCount": 51
+  },
+  {
+    "day": 70,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 2,
+    "reference": "João 2",
+    "highlightVerse": 1,
+    "highlightText": "E, ao terceiro dia, fizeram-se umas bodas em Caná da Galiléia; e estava ali a mãe de Jesus.",
+    "verseCount": 25
+  },
+  {
+    "day": 71,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 3,
+    "reference": "João 3",
+    "highlightVerse": 1,
+    "highlightText": "E havia entre os fariseus um homem, chamado Nicodemos, príncipe dos judeus.",
+    "verseCount": 36
+  },
+  {
+    "day": 72,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 4,
+    "reference": "João 4",
+    "highlightVerse": 1,
+    "highlightText": "E quando o Senhor entendeu que os fariseus tinham ouvido que Jesus fazia e batizava mais discípulos do que João",
+    "verseCount": 54
+  },
+  {
+    "day": 73,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 5,
+    "reference": "João 5",
+    "highlightVerse": 1,
+    "highlightText": "Depois disto havia uma festa entre os judeus, e Jesus subiu a Jerusalém.",
+    "verseCount": 47
+  },
+  {
+    "day": 74,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 6,
+    "reference": "João 6",
+    "highlightVerse": 1,
+    "highlightText": "Depois disto partiu Jesus para o outro lado do mar da Galiléia, que é o de Tiberíades.",
+    "verseCount": 71
+  },
+  {
+    "day": 75,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 7,
+    "reference": "João 7",
+    "highlightVerse": 1,
+    "highlightText": "E depois disto Jesus andava pela Galiléia, e já não queria andar pela Judéia, pois os judeus procuravam matá-lo.",
+    "verseCount": 53
+  },
+  {
+    "day": 76,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 8,
+    "reference": "João 8",
+    "highlightVerse": 1,
+    "highlightText": "Jesus, porém, foi para o Monte das Oliveiras.",
+    "verseCount": 59
+  },
+  {
+    "day": 77,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 9,
+    "reference": "João 9",
+    "highlightVerse": 1,
+    "highlightText": "E, passando Jesus, viu um homem cego de nascença.",
+    "verseCount": 41
+  },
+  {
+    "day": 78,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 10,
+    "reference": "João 10",
+    "highlightVerse": 1,
+    "highlightText": "Na verdade, na verdade vos digo que aquele que não entra pela porta no curral das ovelhas, mas sobe por outra parte, é ladrão e salteador.",
+    "verseCount": 42
+  },
+  {
+    "day": 79,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 11,
+    "reference": "João 11",
+    "highlightVerse": 1,
+    "highlightText": "Estava, porém, enfermo um certo Lázaro, de betânia, aldeia de Maria e de sua irmã Marta.",
+    "verseCount": 57
+  },
+  {
+    "day": 80,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 12,
+    "reference": "João 12",
+    "highlightVerse": 1,
+    "highlightText": "Foi, pois, Jesus seis dias antes da páscoa a betânia, onde estava Lázaro, o que falecera, e a quem ressuscitara dentre os mortos.",
+    "verseCount": 50
+  },
+  {
+    "day": 81,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 13,
+    "reference": "João 13",
+    "highlightVerse": 1,
+    "highlightText": "Ora, antes da festa da páscoa, sabendo Jesus que já era chegada a sua hora de passar deste mundo para o Pai, como havia amado os seus, que estavam no mundo, amou-os até o fim.",
+    "verseCount": 38
+  },
+  {
+    "day": 82,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 14,
+    "reference": "João 14",
+    "highlightVerse": 1,
+    "highlightText": "Não se turbe o vosso coração; credes em Deus, crede também em mim.",
+    "verseCount": 31
+  },
+  {
+    "day": 83,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 15,
+    "reference": "João 15",
+    "highlightVerse": 1,
+    "highlightText": "Eu sou a videira verdadeira, e meu Pai é o lavrador.",
+    "verseCount": 27
+  },
+  {
+    "day": 84,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 16,
+    "reference": "João 16",
+    "highlightVerse": 1,
+    "highlightText": "Tenho-vos dito estas coisas para que vos não escandalizeis.",
+    "verseCount": 33
+  },
+  {
+    "day": 85,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 17,
+    "reference": "João 17",
+    "highlightVerse": 1,
+    "highlightText": "Jesus falou assim e, levantando seus olhos ao céu, e disse: Pai, é chegada a hora; glorifica a teu Filho, para que também o teu Filho te glorifique a ti;",
+    "verseCount": 26
+  },
+  {
+    "day": 86,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 18,
+    "reference": "João 18",
+    "highlightVerse": 1,
+    "highlightText": "Tendo Jesus dito isto, saiu com os seus discípulos para além do ribeiro de Cedrom, onde havia um horto, no qual ele entrou e seus discípulos.",
+    "verseCount": 40
+  },
+  {
+    "day": 87,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 19,
+    "reference": "João 19",
+    "highlightVerse": 1,
+    "highlightText": "Pilatos, pois, tomou então a Jesus, e o açoitou.",
+    "verseCount": 42
+  },
+  {
+    "day": 88,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 20,
+    "reference": "João 20",
+    "highlightVerse": 1,
+    "highlightText": "E no primeiro dia da semana, Maria Madalena foi ao sepulcro de madrugada, sendo ainda escuro, e viu a pedra tirada do sepulcro.",
+    "verseCount": 31
+  },
+  {
+    "day": 89,
+    "abbrev": "jo",
+    "book": "João",
+    "chapter": 21,
+    "reference": "João 21",
+    "highlightVerse": 1,
+    "highlightText": "Depois disto manifestou-se Jesus outra vez aos discípulos junto do mar de Tiberíades; e manifestou-se assim:",
+    "verseCount": 25
+  }
+]

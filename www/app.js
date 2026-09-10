@@ -5,7 +5,21 @@
   const STORAGE_PREFIX = "devocional:";
   const SERVER_URL = "http://163.176.30.222:3001";
 
+  const PLANS = {
+    full: {
+      label: "Novo Testamento + Salmos (365 dias)",
+      planoFile: "plano.json",
+      reflexoesFile: "reflexoes.json",
+    },
+    gospels: {
+      label: "Ensinamentos de Jesus — Evangelhos (89 dias)",
+      planoFile: "plano-gospels.json",
+      reflexoesFile: "reflexoes-gospels.json",
+    },
+  };
+
   const state = {
+    planKey: localStorage.getItem(STORAGE_PREFIX + "plan") || "full",
     plano: null,
     reflexoes: null,
     bible: null,
@@ -15,6 +29,10 @@
 
   const $ = (sel) => document.querySelector(sel);
 
+  function planDays() {
+    return state.plano ? state.plano.length : 365;
+  }
+
   function dayOfYear(date) {
     const start = new Date(date.getFullYear(), 0, 1);
     const diff = date - start;
@@ -23,7 +41,7 @@
 
   function todayIndex() {
     const doy = dayOfYear(new Date());
-    return ((doy - 1) % 365) + 1;
+    return ((doy - 1) % planDays()) + 1;
   }
 
   function greetingByHour() {
@@ -34,15 +52,26 @@
   }
 
   async function loadData() {
+    const planConfig = PLANS[state.planKey] || PLANS.full;
+    const needsBible = !state.bible;
     const [plano, reflexoes, bible] = await Promise.all([
-      fetch("plano.json").then((r) => r.json()),
-      fetch("reflexoes.json").then((r) => r.json()),
-      fetch("bible-acf.json").then((r) => r.json()),
+      fetch(planConfig.planoFile).then((r) => r.json()),
+      fetch(planConfig.reflexoesFile).then((r) => r.json()),
+      needsBible ? fetch("bible-acf.json").then((r) => r.json()) : Promise.resolve(state.bible),
     ]);
     state.plano = plano;
     state.reflexoes = reflexoes;
     state.bible = bible;
     state.bibleByAbbrev = Object.fromEntries(bible.map((b) => [b.abbrev, b]));
+  }
+
+  async function switchPlan(planKey) {
+    if (!PLANS[planKey] || planKey === state.planKey) return;
+    state.planKey = planKey;
+    localStorage.setItem(STORAGE_PREFIX + "plan", planKey);
+    await loadData();
+    state.dayIndex = todayIndex();
+    switchView("home");
   }
 
   function currentEntry() {
@@ -87,13 +116,14 @@
 
   function renderProgress() {
     const idx = todayIndex();
-    $("#progress-sub").textContent = `Dia ${idx} de 365 — ${Math.round((idx / 365) * 100)}% da jornada anual`;
-    $("#progress-bar").style.width = `${(idx / 365) * 100}%`;
+    const total = planDays();
+    $("#progress-sub").textContent = `Dia ${idx} de ${total} — ${Math.round((idx / total) * 100)}% da jornada`;
+    $("#progress-bar").style.width = `${(idx / total) * 100}%`;
 
     const grid = $("#day-grid");
     grid.innerHTML = "";
     const frag = document.createDocumentFragment();
-    for (let d = 1; d <= 365; d++) {
+    for (let d = 1; d <= total; d++) {
       const cell = document.createElement("button");
       cell.type = "button";
       cell.className = "day-cell";
@@ -412,13 +442,16 @@
 
     $("#btn-google").addEventListener("click", handleGoogleLogin);
     $("#btn-logout").addEventListener("click", handleLogout);
+
+    $("#plan-select").value = state.planKey;
+    $("#plan-select").addEventListener("change", (e) => switchPlan(e.target.value));
   }
 
   async function enterApp() {
     hideLoginGate();
     renderAccountUI();
-    state.dayIndex = todayIndex();
     await loadData();
+    state.dayIndex = todayIndex();
     switchView("home");
     await pullNotesFromServer();
   }

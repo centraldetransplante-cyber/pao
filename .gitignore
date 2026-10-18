@@ -9,3 +9,8 @@ android/keystore.properties
 android/*.jks
 android/*.keystore
 *.log
+android/.senha-keystore*
+android/*.password
+**/*senha*keystore*
+*.pfx
+*.p12
